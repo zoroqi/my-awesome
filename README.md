@@ -277,6 +277,7 @@
 
 ## Java 
 
+- [lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
@@ -315,6 +316,7 @@
 
 ## JavaScript 
 
+- [province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend Node.js components.  Free for developers.
 - [Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) - 博观而约取，厚积而薄发。
 - [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
@@ -523,7 +525,6 @@
 - [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
 - [shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
 - [z](https://github.com/rupa/z) - z - jump around
-- [pure-bash-bible](https://github.com/100-knights/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documents in Chinese.
 
