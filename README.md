@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
