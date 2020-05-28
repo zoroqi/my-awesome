@@ -134,7 +134,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🍀 Go live stream server and much more. || Go直播流媒体网络传输服务器。已支持RTMP，HTTP-FLV，H264/AVC，H265/HEVC，AAC，GOP缓存。正在实现HLS部分。
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream server and much more. || Go直播流媒体网络传输服务器。已支持RTMP，HTTP-FLV，H264/AVC，H265/HEVC，AAC，GOP缓存。正在实现HLS部分。
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -370,6 +370,8 @@
 
 ## Others 
 
+- [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
+- [my-awesome](https://github.com/zoroqi/my-awesome) - My Awesome List
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
@@ -452,6 +454,7 @@
 
 ## Python 
 
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
