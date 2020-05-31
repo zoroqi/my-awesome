@@ -134,7 +134,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream server and much more. || Go直播流媒体网络传输服务器。已支持RTMP，HTTP-FLV，H264/AVC，H265/HEVC，AAC，GOP缓存。正在实现HLS部分。
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream server and much more. || Go直播流媒体网络传输服务器。已支持RTMP，HTTP-FLV，HLS(m3u8+ts)，H264/AVC，H265/HEVC，AAC，GOP缓存。更多功能持续迭代中。
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
