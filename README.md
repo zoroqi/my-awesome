@@ -24,6 +24,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -281,6 +282,7 @@
 - [lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（中国加油！世界加油！）
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
 - [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
@@ -448,6 +450,10 @@
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 
+## PLpgSQL 
+
+- [mysql-deadlocks](https://github.com/aneasystone/mysql-deadlocks) - 收集一些常见的 MySQL 死锁案例
+
 ## Perl 
 
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -460,7 +466,6 @@
 - [pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
 - [SymTCP](https://github.com/seclab-ucr/SymTCP) - Automatic Discrepancy Discovery for DPI Elusion
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（中国加油！世界加油！）
 - [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [django-practice-book](https://github.com/the5fire/django-practice-book) - 《Django企业开发实战》已出版
