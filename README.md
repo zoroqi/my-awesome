@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [Code](https://github.com/Making-It/Code) - 面试高频算法题总结，个人博客
@@ -91,6 +92,7 @@
 
 ## Go 
 
+- [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
@@ -279,10 +281,11 @@
 
 ## Java 
 
+- [fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（中国加油！世界加油！）
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
 - [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
@@ -476,7 +479,6 @@
 - [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
 - [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
-- [zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [Zvm](https://github.com/5A59/Zvm) - A lightweight jvm written by python
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [ncmdump](https://github.com/nondanee/ncmdump) - python版本网易云音乐ncm文件格式转换
