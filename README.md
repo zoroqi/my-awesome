@@ -92,6 +92,9 @@
 
 ## Go 
 
+- [snake](https://github.com/1024casts/snake) - 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -273,6 +276,7 @@
 
 ## Haskell 
 
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
