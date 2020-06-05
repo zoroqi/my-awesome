@@ -92,8 +92,9 @@
 
 ## Go 
 
+- [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [snake](https://github.com/1024casts/snake) - 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
-- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
@@ -558,6 +559,7 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) - Source code to build vczh-libraries.github.io
 - [refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) - 重构与模式
 - [github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
