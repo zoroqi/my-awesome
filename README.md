@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 - [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -92,6 +93,9 @@
 
 ## Go 
 
+- [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
+- [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR)
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
@@ -355,7 +359,7 @@
 
 - [pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [google-research](https://github.com/google-research/google-research) - Google Research
-- [DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程&&优秀文章&&Deep Learning Tutorial
+- [DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 - [data-science-practice](https://github.com/oldratlee/data-science-practice) - 数据科学实践 | data science practice
 - [statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) - 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
 - [NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) - 台湾大学李宏毅老师机器学习
@@ -553,6 +557,7 @@
 
 ## Swift 
 
+- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
