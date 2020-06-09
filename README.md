@@ -96,7 +96,7 @@
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR)
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [snake](https://github.com/1024casts/snake) - 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
@@ -165,7 +165,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
-- [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [gotlang](https://github.com/chai2010/gotlang) - :dog::dog::dog: 狗头语言（gotlang） :dog::dog::dog:
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
