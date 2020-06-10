@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -517,6 +518,7 @@
 
 ## Rust 
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb
