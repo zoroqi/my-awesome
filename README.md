@@ -436,13 +436,12 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [bbr](https://github.com/google/bbr) - 
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
@@ -527,7 +526,7 @@
 - [tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed systems and distributed systemes
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 
@@ -548,6 +547,7 @@
 - [dotfiles](https://github.com/zoroqi/dotfiles) - 
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
 - [z](https://github.com/rupa/z) - z - jump around
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
