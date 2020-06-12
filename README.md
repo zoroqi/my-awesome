@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) - detect dependencies which may conflict
 - [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
@@ -100,7 +101,7 @@
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
-- [snake](https://github.com/1024casts/snake) - 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
+- [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
@@ -545,7 +546,7 @@
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
 - [dotfiles](https://github.com/zoroqi/dotfiles) - 
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
