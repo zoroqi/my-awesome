@@ -93,6 +93,8 @@
 
 ## Go 
 
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) - detect dependencies which may conflict
 - [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -102,7 +104,7 @@
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
-- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
@@ -149,7 +151,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server and much more. || Go直播流媒体网络传输服务器。已支持RTMP，HTTP-FLV，HLS(m3u8+ts)，H264/AVC，H265/HEVC，AAC，GOP缓存。更多功能持续迭代中。
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server and much more. || Go直播流媒体网络传输服务器，已支持RTMP，HTTP-FLV，HLS(m3u8+ts)，H264/AVC，H265/HEVC，AAC，GOP缓存，中继转推。更多功能持续迭代中。
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
