@@ -287,6 +287,7 @@
 
 ## Haskell 
 
+- [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -478,6 +479,7 @@
 
 ## Python 
 
+- [open-covid-19-data](https://github.com/google-research/open-covid-19-data) - Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
