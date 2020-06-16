@@ -339,7 +339,7 @@
 ## JavaScript 
 
 - [province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-- [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend Node.js components.  Free for developers.
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - Free, serverless integration and compute platform
 - [Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) - 博观而约取，厚积而薄发。
 - [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux.
