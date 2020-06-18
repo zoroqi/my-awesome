@@ -93,6 +93,9 @@
 
 ## Go 
 
+- [minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
+- [errors](https://github.com/pkg/errors) - Simple error handling primitives
+- [wa](https://github.com/wa-lang/wa) - 凹语言(凹读音“Wa”)(The Wa Programming Language)
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 - [go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) - detect dependencies which may conflict
@@ -100,7 +103,7 @@
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
 - [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
