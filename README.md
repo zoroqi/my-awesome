@@ -37,6 +37,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## C 
 
@@ -93,6 +94,7 @@
 
 ## Go 
 
+- [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [wa](https://github.com/wa-lang/wa) - 凹语言(凹读音“Wa”)(The Wa Programming Language)
@@ -106,7 +108,7 @@
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
-- [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
+- [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的开发框架，可以快速进行业务开发，遵循SOLID设计原则
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
@@ -275,6 +277,7 @@
 
 ## HTML 
 
+- [haskellcn](https://github.com/HaskellCNOrg/haskellcn) - home page
 - [prometheus-handbook](https://github.com/yangchuansheng/prometheus-handbook) - Prometheus 中文文档
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [goto-translation](https://github.com/emon100/goto-translation) - 重新审视 《GOTO 语句被认为有害》的翻译
@@ -342,7 +345,7 @@
 ## JavaScript 
 
 - [province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-- [pipedream](https://github.com/PipedreamHQ/pipedream) - Free, serverless integration and compute platform
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
 - [Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) - 博观而约取，厚积而薄发。
 - [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux.
@@ -598,6 +601,10 @@
 ## Vim script 
 
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
+
+## Vue 
+
+- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 这是一个在你编程时疯狂称赞你的 VSCode 扩展插件
 
 
 ## License
