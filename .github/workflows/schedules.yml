@@ -1,7 +1,7 @@
 name: update my-awesome
 on:
   schedule:
-  - cron: 30 3 * * *
+  - cron: 45 10 * * *
 jobs:
   my-awesome:
     name: update my-awesome
@@ -14,8 +14,9 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install starred
+        git clone https://github.com/zoroqi/starred.git
+        cd starred
+        python setup.py install
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
