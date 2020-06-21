@@ -156,7 +156,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server and much more. || Go直播流媒体网络传输服务器，已支持RTMP，HTTP-FLV，HLS(m3u8+ts)，H264/AVC，H265/HEVC，AAC，GOP缓存，中继转推。更多功能持续迭代中。
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, HTTP-FLV, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, GOP cache, relay pull, relay push. || Go直播流媒体网络传输服务器
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -604,7 +604,7 @@
 
 ## Vue 
 
-- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 这是一个在你编程时疯狂称赞你的 VSCode 扩展插件
+- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 
 
 ## License
