@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -304,6 +305,7 @@
 
 ## Java 
 
+- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
