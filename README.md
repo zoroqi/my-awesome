@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
@@ -488,6 +489,7 @@
 
 ## Python 
 
+- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) - Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
