@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
@@ -591,6 +592,7 @@
 
 ## TypeScript 
 
+- [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) - Source code to build vczh-libraries.github.io
 - [cuixiaorui/refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) - 重构与模式
