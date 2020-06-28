@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [qiniu/goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
