@@ -41,6 +41,7 @@
 
 ## C 
 
+- [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
@@ -95,6 +96,10 @@
 
 ## Go 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [peterbourgon/diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
+- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
+- [zoroqi/dependency-graph](https://github.com/zoroqi/dependency-graph) - 
 - [qiniu/goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
@@ -246,7 +251,7 @@
 - [sevennt/rocketmq](https://github.com/sevennt/rocketmq) - RocketMQ client for go supportting producer and consumer.
 - [dengyuankai272/rocketmq](https://github.com/dengyuankai272/rocketmq) - RocketMQ client for go supportting producer and consumer.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [talk-go/night](https://github.com/talk-go/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [haifenghuang/magpie](https://github.com/haifenghuang/magpie) - :bird: Successor of my monkey Interpreter(support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL).
