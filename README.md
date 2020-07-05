@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
