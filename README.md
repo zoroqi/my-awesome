@@ -42,8 +42,9 @@
 
 ## C 
 
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
-- [redis-io/redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
@@ -110,7 +111,7 @@
 - [peterbourgon/diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [zoroqi/dependency-graph](https://github.com/zoroqi/dependency-graph) - Visualize Go Dependency Trees
-- [qiniu/goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
