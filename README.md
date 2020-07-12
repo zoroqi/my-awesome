@@ -98,6 +98,8 @@
 
 ## Go 
 
+- [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
+- [golang/benchmarks](https://github.com/golang/benchmarks) - Benchmarks for the perf dashboard
 - [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
@@ -133,7 +135,7 @@
 - [1024casts/snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的开发框架，可以快速进行业务开发，遵循SOLID设计原则
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [go101/gold](https://github.com/go101/gold) - An experimental Go local docs server and Go docs generation tool
+- [go101/gold](https://github.com/go101/gold) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
@@ -315,6 +317,7 @@
 
 ## Haskell 
 
+- [facebookincubator/retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [google-research/dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
@@ -565,6 +568,7 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
