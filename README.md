@@ -295,7 +295,7 @@
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 
@@ -568,6 +568,7 @@
 
 ## Rust 
 
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
