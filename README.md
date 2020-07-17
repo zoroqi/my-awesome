@@ -41,6 +41,7 @@
 
 ## C 
 
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
 - [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -517,6 +518,7 @@
 
 ## Python 
 
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [GNOME/meld](https://github.com/GNOME/meld) - Compare files, directories and working copies
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
