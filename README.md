@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [gopherjs/vecty](https://github.com/gopherjs/vecty) - Vecty: your frontend, in Go
 - [gostaticanalysis/godump](https://github.com/gostaticanalysis/godump) - Tool: godump dumps AST and SSA IR of given source codes
@@ -517,7 +518,7 @@
 
 ## Python 
 
-- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR in 3 lines with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
