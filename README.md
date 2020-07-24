@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [tecbot/gorocksdb](https://github.com/tecbot/gorocksdb) - gorocksdb is a Go wrapper for RocksDB
 - [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
@@ -263,7 +264,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
-- [wtfutil/wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
@@ -334,6 +335,7 @@
 
 ## Java 
 
+- [sjPlot/Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
 - [KFCFans/PowerJob](https://github.com/KFCFans/PowerJob) - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
