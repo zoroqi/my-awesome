@@ -5,40 +5,40 @@
 
 ## Contents
 
-  - [C](#c)
-  - [C#](#c#)
-  - [C++](#c++)
-  - [CSS](#css)
-  - [CodeQL](#codeql)
-  - [CoffeeScript](#coffeescript)
-  - [Cuda](#cuda)
-  - [Dockerfile](#dockerfile)
-  - [Go](#go)
-  - [HTML](#html)
-  - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter-notebook)
-  - [Kotlin](#kotlin)
-  - [Lua](#lua)
-  - [Makefile](#makefile)
-  - [Objective-C](#objective-c)
-  - [Others](#others)
-  - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
-  - [Perl](#perl)
-  - [Python](#python)
-  - [Rich Text Format](#rich-text-format)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Smarty](#smarty)
-  - [Swift](#swift)
-  - [TeX](#tex)
-  - [TypeScript](#typescript)
-  - [V](#v)
-  - [Vim script](#vim-script)
+  - [C](#c) (13)
+  - [C#](#c#) (1)
+  - [C++](#c++) (17)
+  - [CSS](#css) (3)
+  - [CodeQL](#codeql) (1)
+  - [CoffeeScript](#coffeescript) (1)
+  - [Cuda](#cuda) (1)
+  - [Dockerfile](#dockerfile) (1)
+  - [Go](#go) (210)
+  - [HTML](#html) (13)
+  - [Haskell](#haskell) (8)
+  - [Java](#java) (43)
+  - [JavaScript](#javascript) (25)
+  - [Jupyter Notebook](#jupyter-notebook) (8)
+  - [Kotlin](#kotlin) (4)
+  - [Lua](#lua) (1)
+  - [Makefile](#makefile) (1)
+  - [Objective-C](#objective-c) (1)
+  - [Others](#others) (72)
+  - [PHP](#php) (3)
+  - [PLpgSQL](#plpgsql) (1)
+  - [Perl](#perl) (1)
+  - [Python](#python) (36)
+  - [Rich Text Format](#rich-text-format) (1)
+  - [Ruby](#ruby) (10)
+  - [Rust](#rust) (15)
+  - [Scala](#scala) (6)
+  - [Shell](#shell) (12)
+  - [Smarty](#smarty) (1)
+  - [Swift](#swift) (3)
+  - [TeX](#tex) (1)
+  - [TypeScript](#typescript) (14)
+  - [V](#v) (1)
+  - [Vim script](#vim-script) (1)
 
 ## C 
 
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -343,6 +344,8 @@
 
 ## Java 
 
+- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [sjPlot/Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
 - [KFCFans/PowerJob](https://github.com/KFCFans/PowerJob) - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
