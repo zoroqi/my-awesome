@@ -18,7 +18,7 @@
   - [Haskell](#haskell) (8)
   - [Java](#java) (43)
   - [JavaScript](#javascript) (25)
-  - [Jupyter Notebook](#jupyter-notebook) (8)
+  - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
@@ -197,7 +197,7 @@
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang/studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, HTTP-FLV, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, GOP cache, relay pull, relay push. || Go直播流媒体网络传输服务器
+- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, HTTP-FLV, HLS(m3u8+ts), RTSP(sdp+rtp+rtcp), H264/AVC, H265/HEVC, AAC, GOP cache, relay pull & push. || Go直播流媒体网络传输服务器
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -419,6 +419,7 @@
 
 ## Jupyter Notebook 
 
+- [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
