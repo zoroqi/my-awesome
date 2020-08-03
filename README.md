@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (211)
+  - [Go](#go) (212)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (43)
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - Go语言圣经中文版(只接收PR, Issue请提交到golang-china/gopl-zh)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
