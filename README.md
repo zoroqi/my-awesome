@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (214)
+  - [Go](#go) (215)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (43)
@@ -23,7 +23,7 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (72)
+  - [Others](#others) (73)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 杜绝Bloomfilter和CuckooFilter的误判
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [changkun/ddd](https://github.com/changkun/ddd) - ddd is a 3d rasterizer written in pure Go
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
@@ -453,6 +454,7 @@
 
 ## Others 
 
+- [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [cristaloleg/awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
