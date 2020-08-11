@@ -32,7 +32,7 @@
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (15)
   - [Scala](#scala) (6)
-  - [Shell](#shell) (12)
+  - [Shell](#shell) (13)
   - [Smarty](#smarty) (1)
   - [Swift](#swift) (3)
   - [TeX](#tex) (1)
@@ -466,7 +466,7 @@
 - [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
 - [88250/awesome-seeds](https://github.com/88250/awesome-seeds) - 🌱 发现新鲜有趣的小型开源项目，欢迎投稿！
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-- [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 这是一本开源的Go语言进阶图书，帮助初级Go程序员成为资深专家，欢迎加入~
+- [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
 - [qqqil/books](https://github.com/qqqil/books) - 我读过的书。嘿嘿，分享给你。
 - [yangwenmai/learning-growth](https://github.com/yangwenmai/learning-growth) - 主要是我的一些阅读、学习、社交、研究、思考、放松娱乐记录整理。
 - [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) - :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
@@ -627,6 +627,7 @@
 
 ## Shell 
 
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
