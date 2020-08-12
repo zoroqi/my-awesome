@@ -17,7 +17,7 @@
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (43)
-  - [JavaScript](#javascript) (25)
+  - [JavaScript](#javascript) (26)
   - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
@@ -31,7 +31,7 @@
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (15)
-  - [Scala](#scala) (6)
+  - [Scala](#scala) (7)
   - [Shell](#shell) (13)
   - [Smarty](#smarty) (1)
   - [Swift](#swift) (3)
@@ -395,6 +395,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
@@ -618,6 +619,7 @@
 
 ## Scala 
 
+- [gatling/gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
