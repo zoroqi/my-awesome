@@ -104,7 +104,7 @@
 
 ## Go 
 
-- [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 杜绝Bloomfilter和CuckooFilter的误判
+- [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [changkun/ddd](https://github.com/changkun/ddd) - ddd is a 3d rasterizer written in pure Go
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
