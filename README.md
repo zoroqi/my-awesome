@@ -13,24 +13,24 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (215)
+  - [Go](#go) (217)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
-  - [Java](#java) (43)
+  - [Java](#java) (44)
   - [JavaScript](#javascript) (26)
   - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (73)
+  - [Others](#others) (74)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
   - [Python](#python) (36)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
-  - [Rust](#rust) (15)
+  - [Rust](#rust) (16)
   - [Scala](#scala) (7)
   - [Shell](#shell) (13)
   - [Smarty](#smarty) (1)
@@ -104,6 +104,8 @@
 
 ## Go 
 
+- [zoroqi/bloomfilter](https://github.com/zoroqi/bloomfilter) - bloomfilter services
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [changkun/ddd](https://github.com/changkun/ddd) - ddd is a 3d rasterizer written in pure Go
@@ -349,6 +351,7 @@
 
 ## Java 
 
+- [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [sjPlot/Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
@@ -455,6 +458,7 @@
 
 ## Others 
 
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -549,7 +553,7 @@
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie/httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) - Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -601,6 +605,7 @@
 
 ## Rust 
 
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
