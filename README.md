@@ -13,10 +13,10 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (216)
+  - [Go](#go) (217)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
-  - [Java](#java) (44)
+  - [Java](#java) (45)
   - [JavaScript](#javascript) (26)
   - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
@@ -36,7 +36,7 @@
   - [Smarty](#smarty) (1)
   - [Swift](#swift) (3)
   - [TeX](#tex) (1)
-  - [TypeScript](#typescript) (14)
+  - [TypeScript](#typescript) (15)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
 
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
@@ -119,7 +120,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
-- [gopherjs/vecty](https://github.com/gopherjs/vecty) - Vecty: your frontend, in Go
+- [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [gostaticanalysis/godump](https://github.com/gostaticanalysis/godump) - Tool: godump dumps AST and SSA IR of given source codes
 - [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 - [golang/benchmarks](https://github.com/golang/benchmarks) - Benchmarks for the perf dashboard
@@ -350,11 +351,12 @@
 
 ## Java 
 
+- [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [sjPlot/Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
-- [KFCFans/PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to access to use!
+- [KFCFans/PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
@@ -576,7 +578,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [nondanee/ncmdump](https://github.com/nondanee/ncmdump) - python版本网易云音乐ncm文件格式转换
 - [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [crownpku/Rasa_NLU_Chi](https://github.com/crownpku/Rasa_NLU_Chi) - Turn Chinese natural language into structured data 中文自然语言理解
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
@@ -663,6 +665,7 @@
 
 ## TypeScript 
 
+- [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) - Source code to build vczh-libraries.github.io
