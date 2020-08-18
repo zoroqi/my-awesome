@@ -23,7 +23,7 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (74)
+  - [Others](#others) (75)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -217,7 +217,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [changkun/go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
 - [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-- [pingcap/pd](https://github.com/pingcap/pd) - Placement driver for TiKV
+- [tikv/pd](https://github.com/tikv/pd) - Placement driver for TiKV
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
@@ -459,6 +459,7 @@
 
 ## Others 
 
+- [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
