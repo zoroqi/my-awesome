@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (218)
+  - [Go](#go) (219)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (45)
@@ -36,7 +36,7 @@
   - [Smarty](#smarty) (1)
   - [Swift](#swift) (3)
   - [TeX](#tex) (1)
-  - [TypeScript](#typescript) (15)
+  - [TypeScript](#typescript) (16)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
 
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [facebook/ent](https://github.com/facebook/ent) - An entity framework for Go
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -666,6 +667,7 @@
 
 ## TypeScript 
 
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
