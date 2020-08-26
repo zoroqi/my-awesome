@@ -8,7 +8,7 @@
   - [C](#c) (13)
   - [C#](#c#) (1)
   - [C++](#c++) (17)
-  - [CSS](#css) (3)
+  - [CSS](#css) (4)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
@@ -82,6 +82,7 @@
 
 ## CSS 
 
+- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
 - [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
 - [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
@@ -162,7 +163,7 @@
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [go101/gold](https://github.com/go101/gold) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
