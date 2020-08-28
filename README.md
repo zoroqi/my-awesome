@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (219)
+  - [Go](#go) (220)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (45)
@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - This is an early academic version of HTTPT, scrapped of incomplete functionality. A more feature-rich version will be released late September.
 - [facebook/ent](https://github.com/facebook/ent) - An entity framework for Go
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
@@ -231,7 +232,7 @@
 - [google/schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
 - [intel-go/nff-go](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
-- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide
+- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [chai2010/awesome-go-zh](https://github.com/chai2010/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
