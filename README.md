@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (221)
+  - [Go](#go) (222)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (45)
@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [liquidata-inc/go-mysql-server](https://github.com/liquidata-inc/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - This is an early academic version of HTTPT, scrapped of incomplete functionality. A more feature-rich version will be released late September.
 - [facebook/ent](https://github.com/facebook/ent) - An entity framework for Go
