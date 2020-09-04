@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (222)
+  - [Go](#go) (224)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (45)
@@ -27,12 +27,12 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (37)
+  - [Python](#python) (38)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (16)
   - [Scala](#scala) (7)
-  - [Shell](#shell) (13)
+  - [Shell](#shell) (12)
   - [Smarty](#smarty) (1)
   - [Swift](#swift) (3)
   - [TeX](#tex) (1)
@@ -105,6 +105,8 @@
 
 ## Go 
 
+- [Arkweid/lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+- [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [liquidata-inc/go-mysql-server](https://github.com/liquidata-inc/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - This is an early academic version of HTTPT, scrapped of incomplete functionality. A more feature-rich version will be released late September.
@@ -593,6 +595,7 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+- [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documents in Chinese.
 
 ## Rich Text Format 
 
@@ -632,7 +635,7 @@
 
 ## Scala 
 
-- [gatling/gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
+- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
@@ -654,7 +657,6 @@
 - [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documents in Chinese.
 
 ## Smarty 
 
