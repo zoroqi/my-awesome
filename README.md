@@ -16,7 +16,7 @@
   - [Go](#go) (224)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
-  - [Java](#java) (45)
+  - [Java](#java) (46)
   - [JavaScript](#javascript) (26)
   - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
@@ -27,7 +27,7 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (38)
+  - [Python](#python) (39)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (16)
@@ -109,7 +109,7 @@
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [liquidata-inc/go-mysql-server](https://github.com/liquidata-inc/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - This is an early academic version of HTTPT, scrapped of incomplete functionality. A more feature-rich version will be released late September.
+- [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
 - [facebook/ent](https://github.com/facebook/ent) - An entity framework for Go
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
@@ -359,6 +359,7 @@
 
 ## Java 
 
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -558,6 +559,7 @@
 
 ## Python 
 
+- [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
