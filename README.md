@@ -320,7 +320,7 @@
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [golang/leveldb](https://github.com/golang/leveldb) - The LevelDB key-value database in the Go programming language.
-- [golang/dep](https://github.com/golang/dep) - Go dependency management tool
+- [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
@@ -376,7 +376,7 @@
 - [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
-- [openjdk/jdk](https://github.com/openjdk/jdk) - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
