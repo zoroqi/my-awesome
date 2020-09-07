@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (224)
+  - [Go](#go) (225)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (46)
@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [changkun/go-history](https://github.com/changkun/go-history) - A Documentary of Go
 - [Arkweid/lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [liquidata-inc/go-mysql-server](https://github.com/liquidata-inc/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
