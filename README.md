@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (225)
+  - [Go](#go) (222)
   - [HTML](#html) (13)
   - [Haskell](#haskell) (8)
   - [Java](#java) (46)
@@ -27,7 +27,7 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (39)
+  - [Python](#python) (40)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (16)
@@ -249,9 +249,6 @@
 - [smallnest/resp3](https://github.com/smallnest/resp3) - First redis RESP3 protocol library in Go
 - [rsc/tlogdb](https://github.com/rsc/tlogdb) - Reusable transparent log database
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [zoroqi/regex-find](https://github.com/zoroqi/regex-find) - 
-- [zoroqi/note-tool](https://github.com/zoroqi/note-tool) - 
-- [zoroqi/GoGameOfLife](https://github.com/zoroqi/GoGameOfLife) - 
 - [1046102779/oklog](https://github.com/1046102779/oklog) - translation OKLog
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
@@ -560,6 +557,7 @@
 
 ## Python 
 
+- [Jesse-csj/TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
 - [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
