@@ -18,13 +18,13 @@
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
   - [Java](#java) (46)
-  - [JavaScript](#javascript) (27)
+  - [JavaScript](#javascript) (28)
   - [Jupyter Notebook](#jupyter-notebook) (9)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (74)
+  - [Others](#others) (75)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -416,6 +416,7 @@
 
 ## JavaScript 
 
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
@@ -477,6 +478,7 @@
 
 ## Others 
 
+- [changkun/talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
 - [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
