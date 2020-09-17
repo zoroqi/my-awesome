@@ -8,13 +8,13 @@
   - [C](#c) (13)
   - [C#](#c#) (1)
   - [C++](#c++) (17)
-  - [CSS](#css) (4)
+  - [CSS](#css) (5)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
   - [Go](#go) (229)
-  - [HTML](#html) (13)
+  - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
   - [Java](#java) (46)
@@ -85,6 +85,7 @@
 
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
 - [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
 
@@ -113,7 +114,7 @@
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
-- [golang-design/history](https://github.com/golang-design/history) - 📝 Go: A Documentary | https://golang.design/history
+- [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [Arkweid/lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [liquidata-inc/go-mysql-server](https://github.com/liquidata-inc/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
@@ -347,7 +348,6 @@
 - [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
 - [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
 - [goldshtn/linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) - Examples and hands-on labs for Linux tracing tools workshops
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
