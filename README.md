@@ -35,7 +35,7 @@
   - [Scala](#scala) (7)
   - [Shell](#shell) (12)
   - [Smarty](#smarty) (1)
-  - [Swift](#swift) (3)
+  - [Swift](#swift) (4)
   - [TeX](#tex) (1)
   - [TypeScript](#typescript) (16)
   - [V](#v) (1)
@@ -681,6 +681,7 @@
 
 ## Swift 
 
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
