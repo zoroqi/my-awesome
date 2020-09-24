@@ -17,7 +17,7 @@
   - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
-  - [Java](#java) (46)
+  - [Java](#java) (47)
   - [JavaScript](#javascript) (28)
   - [Jupyter Notebook](#jupyter-notebook) (10)
   - [Kotlin](#kotlin) (4)
@@ -303,7 +303,7 @@
 - [sevennt/rocketmq](https://github.com/sevennt/rocketmq) - RocketMQ client for go supportting producer and consumer.
 - [dengyuankai272/rocketmq](https://github.com/dengyuankai272/rocketmq) - RocketMQ client for go supportting producer and consumer.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [haifenghuang/magpie](https://github.com/haifenghuang/magpie) - :bird: Successor of my monkey Interpreter(support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL).
@@ -370,6 +370,7 @@
 
 ## Java 
 
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
