@@ -7,7 +7,7 @@
 
   - [C](#c) (13)
   - [C#](#c#) (1)
-  - [C++](#c++) (18)
+  - [C++](#c++) (19)
   - [CSS](#css) (5)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [CppCon/CppCon2020](https://github.com/CppCon/CppCon2020) - Slides and other materials from CppCon 2019
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
