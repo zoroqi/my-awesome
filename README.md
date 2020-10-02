@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (229)
+  - [Go](#go) (230)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
@@ -109,6 +109,7 @@
 
 ## Go 
 
+- [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -315,7 +316,7 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [alexellis/derek](https://github.com/alexellis/derek) - Derek reduces fatigue by automating GitHub
+- [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [alash3al/sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
