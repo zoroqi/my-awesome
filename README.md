@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (232)
+  - [Go](#go) (233)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
