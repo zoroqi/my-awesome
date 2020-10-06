@@ -28,7 +28,7 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (40)
+  - [Python](#python) (41)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (10)
   - [Rust](#rust) (16)
@@ -583,6 +583,7 @@
 
 ## Python 
 
+- [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [Jesse-csj/TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
 - [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
