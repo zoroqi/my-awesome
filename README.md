@@ -406,7 +406,7 @@
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for Java and Kotlin.
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [twogoods/AsyncDao](https://github.com/twogoods/AsyncDao) - Async SQL mapper framework
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
