@@ -13,18 +13,18 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (234)
+  - [Go](#go) (235)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
   - [Java](#java) (48)
-  - [JavaScript](#javascript) (28)
+  - [JavaScript](#javascript) (29)
   - [Jupyter Notebook](#jupyter-notebook) (10)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (76)
+  - [Others](#others) (77)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -38,7 +38,7 @@
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (4)
   - [TeX](#tex) (1)
-  - [TypeScript](#typescript) (16)
+  - [TypeScript](#typescript) (18)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
 
@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [lunixbochs/usercorn](https://github.com/lunixbochs/usercorn) - dynamic binary analysis via platform emulation
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
@@ -283,7 +284,7 @@
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [yoki123/ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
-- [intel/govmm](https://github.com/intel/govmm) - Virtual Machine Manager for Go (govmm) is a suite of packages that provide Go APIs for creating and managing virtual machines.
+- [kata-containers/govmm](https://github.com/kata-containers/govmm) - Virtual Machine Manager for Go (govmm) is a suite of packages that provide Go APIs for creating and managing virtual machines.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [golang/debug](https://github.com/golang/debug) - [mirror] debugging tools
 - [mosn/mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
@@ -428,6 +429,7 @@
 
 ## JavaScript 
 
+- [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -491,6 +493,7 @@
 
 ## Others 
 
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [changkun/talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
 - [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
@@ -708,6 +711,8 @@
 
 ## TypeScript 
 
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
