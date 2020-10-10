@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (235)
+  - [Go](#go) (236)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (8)
   - [HolyC](#holyc) (1)
@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [arl/statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) with a single import, à la `net/http/pprof` :rocket:
 - [lunixbochs/usercorn](https://github.com/lunixbochs/usercorn) - dynamic binary analysis via platform emulation
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
