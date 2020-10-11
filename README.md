@@ -5,739 +5,741 @@
 
 ## Contents
 
-  - [C](#c) (13)
-  - [C#](#c#) (1)
-  - [C++](#c++) (19)
-  - [CSS](#css) (5)
-  - [CodeQL](#codeql) (1)
-  - [CoffeeScript](#coffeescript) (1)
-  - [Cuda](#cuda) (1)
-  - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (236)
-  - [HTML](#html) (12)
-  - [Haskell](#haskell) (8)
-  - [HolyC](#holyc) (1)
-  - [Java](#java) (48)
-  - [JavaScript](#javascript) (29)
-  - [Jupyter Notebook](#jupyter-notebook) (10)
-  - [Kotlin](#kotlin) (4)
-  - [Lua](#lua) (1)
-  - [Makefile](#makefile) (1)
-  - [Objective-C](#objective-c) (1)
-  - [Others](#others) (77)
-  - [PHP](#php) (3)
-  - [PLpgSQL](#plpgsql) (1)
-  - [Perl](#perl) (1)
-  - [Python](#python) (41)
-  - [Rich Text Format](#rich-text-format) (1)
-  - [Ruby](#ruby) (10)
-  - [Rust](#rust) (16)
-  - [Scala](#scala) (7)
-  - [Shell](#shell) (12)
-  - [Smarty](#smarty) (1)
-  - [Starlark](#starlark) (1)
-  - [Swift](#swift) (4)
-  - [TeX](#tex) (1)
-  - [TypeScript](#typescript) (18)
-  - [V](#v) (1)
-  - [Vim script](#vim-script) (1)
+  - [C](#c)
+  - [C#](#c#)
+  - [C++](#c++)
+  - [CSS](#css)
+  - [CodeQL](#codeql)
+  - [CoffeeScript](#coffeescript)
+  - [Cuda](#cuda)
+  - [Dockerfile](#dockerfile)
+  - [Go](#go)
+  - [HTML](#html)
+  - [Haskell](#haskell)
+  - [HolyC](#holyc)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
+  - [Lua](#lua)
+  - [Makefile](#makefile)
+  - [Objective-C](#objective-c)
+  - [Others](#others)
+  - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
+  - [Perl](#perl)
+  - [Python](#python)
+  - [Rich Text Format](#rich-text-format)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Shell](#shell)
+  - [Smarty](#smarty)
+  - [Starlark](#starlark)
+  - [Swift](#swift)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
+  - [V](#v)
+  - [Vim script](#vim-script)
 
 ## C 
 
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
-- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
-- [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-- [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
-- [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-- [feiskyer/linux-perf-examples](https://github.com/feiskyer/linux-perf-examples) - 极客时间《Linux 性能优化实战》案例
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [Solo5/solo5](https://github.com/Solo5/solo5) - A sandboxed execution environment for unikernels
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
+- [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
+- [gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
+- [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
+- [wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+- [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
+- [linux-perf-examples](https://github.com/feiskyer/linux-perf-examples) - 极客时间《Linux 性能优化实战》案例
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+- [solo5](https://github.com/Solo5/solo5) - A sandboxed execution environment for unikernels
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 
 ## C# # 
 
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
 ## C++ 
 
-- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
-- [CppCon/CppCon2020](https://github.com/CppCon/CppCon2020) - Slides and other materials from CppCon 2020
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
-- [cwida/duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [Making-It/Code](https://github.com/Making-It/Code) - 面试高频算法题总结，个人博客
-- [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-- [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [jvm-profiling-tools/async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
-- [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
-- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [thrift](https://github.com/apache/thrift) - Apache Thrift
+- [CppCon2020](https://github.com/CppCon/CppCon2020) - Slides and other materials from CppCon 2020
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
+- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [Code](https://github.com/Making-It/Code) - 面试高频算法题总结，个人博客
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+- [robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
 ## CSS 
 
-- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
-- [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
-- [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
-- [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
+- [Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
+- [GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
+- [fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
+- [techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
+- [ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
 
 ## CodeQL 
 
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
 
 ## CoffeeScript 
 
-- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## Cuda 
 
-- [feiwang3311/Lantern](https://github.com/feiwang3311/Lantern) - 
+- [Lantern](https://github.com/feiwang3311/Lantern) - 
 
 ## Dockerfile 
 
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Go 
 
-- [arl/statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) with a single import, à la `net/http/pprof` :rocket:
-- [lunixbochs/usercorn](https://github.com/lunixbochs/usercorn) - dynamic binary analysis via platform emulation
-- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
-- [securego/gosec](https://github.com/securego/gosec) - Golang security checker
-- [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
-- [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
-- [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
-- [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
-- [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
-- [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [Arkweid/lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
-- [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
-- [facebook/ent](https://github.com/facebook/ent) - An entity framework for Go
-- [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [rpcxio/basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在,日活统计，签到，打点等等
-- [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [changkun/ddd](https://github.com/changkun/ddd) - ddd is a 3d rasterizer written in pure Go
-- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-- [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - Go语言圣经中文版(只接收PR, Issue请提交到golang-china/gopl-zh)
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [tecbot/gorocksdb](https://github.com/tecbot/gorocksdb) - gorocksdb is a Go wrapper for RocksDB
-- [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
-- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
-- [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
-- [gostaticanalysis/godump](https://github.com/gostaticanalysis/godump) - Tool: godump dumps AST and SSA IR of given source codes
-- [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
-- [golang/benchmarks](https://github.com/golang/benchmarks) - Benchmarks for the perf dashboard
-- [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
-- [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
-- [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
-- [peterbourgon/diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
-- [zoroqi/dependency-graph](https://github.com/zoroqi/dependency-graph) - Visualize Go Dependency Trees
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
-- [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
-- [wa-lang/wa](https://github.com/wa-lang/wa) - 凹语言(凹读音“Wa”)(The Wa Programming Language)
-- [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
-- [cch123/gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) - detect dependencies which may conflict
-- [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
-- [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
-- [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
-- [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
-- [PrasadG193/kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
-- [1024casts/snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的开发框架，可以快速进行业务开发，遵循SOLID设计原则
-- [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [go101/gold](https://github.com/go101/gold) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
-- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
-- [rakyll/go-sql-driver-spanner](https://github.com/rakyll/go-sql-driver-spanner) - Google Cloud Spanner driver for Go
-- [zoroqi/KuZuTeTuMaChi](https://github.com/zoroqi/KuZuTeTuMaChi) - クズ鉄町　一样的的代码集合, 积攒之后可能找到宝藏吧
-- [coreos/pkg](https://github.com/coreos/pkg) - a collection of go utility packages
-- [zoroqi/stupid-self](https://github.com/zoroqi/stupid-self) - stupid self
-- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
-- [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
-- [golang/perf](https://github.com/golang/perf) - [mirror] Performance measurement, storage, and analysis.
-- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [google/btree](https://github.com/google/btree) - 
-- [soheilhy/cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port!
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
-- [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-- [sodaling/FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
-- [murooka/go-diff-image](https://github.com/murooka/go-diff-image) - 
-- [88250/city-geo](https://github.com/88250/city-geo) - 🌄 中国城市经纬度数据。
-- [labuladong/YouTubeCrawler](https://github.com/labuladong/YouTubeCrawler) - 自动搬运 YouTube 视频并压制字幕
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [openacid/slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
-- [studygolang/studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, GOP cache. || Go直播流媒体网络传输服务器
-- [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
-- [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
-- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-- [go-internals-cn/go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [zhiqiangxu/qrpc](https://github.com/zhiqiangxu/qrpc) - tiny but powerful rpc framework
-- [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
-- [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
-- [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-- [tikv/pd](https://github.com/tikv/pd) - Placement driver for TiKV
-- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
-- [iancoleman/strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
-- [chai2010/gotlang](https://github.com/chai2010/gotlang) - :dog::dog::dog: 狗头语言（gotlang） :dog::dog::dog:
-- [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
-- [google/schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
-- [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
-- [intel-go/nff-go](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
-- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
-- [chai2010/awesome-go-zh](https://github.com/chai2010/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
-- [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
-- [changkun/goid](https://github.com/changkun/goid) - retrieve a goroutine id in Go 1
-- [abronan/valkeyrie](https://github.com/abronan/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go
-- [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
-- [smallnest/resp3](https://github.com/smallnest/resp3) - First redis RESP3 protocol library in Go
-- [rsc/tlogdb](https://github.com/rsc/tlogdb) - Reusable transparent log database
-- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [1046102779/oklog](https://github.com/1046102779/oklog) - translation OKLog
-- [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
-- [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
-- [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
-- [Netflix/rend](https://github.com/Netflix/rend) - A memcached proxy that manages data chunking and L1 / L2 caches
-- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [lifei6671/NeteaseCloudMusicFlac](https://github.com/lifei6671/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地.。
-- [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-- [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
-- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
-- [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
-- [pilosa/pilosa](https://github.com/pilosa/pilosa) - Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
-- [BTrDB/btrdb-server](https://github.com/BTrDB/btrdb-server) - Berkeley Tree Database (BTrDB) server
-- [BTrDB/btrdb](https://github.com/BTrDB/btrdb) - BTrDB Golang bindings
-- [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
-- [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
-- [yoki123/ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
-- [kata-containers/govmm](https://github.com/kata-containers/govmm) - Virtual Machine Manager for Go (govmm) is a suite of packages that provide Go APIs for creating and managing virtual machines.
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [golang/debug](https://github.com/golang/debug) - [mirror] debugging tools
-- [mosn/mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
-- [google/go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query parameters.
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
-- [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
-- [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
-- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
-- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [sevennt/rocketmq](https://github.com/sevennt/rocketmq) - RocketMQ client for go supportting producer and consumer.
-- [dengyuankai272/rocketmq](https://github.com/dengyuankai272/rocketmq) - RocketMQ client for go supportting producer and consumer.
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
-- [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
-- [haifenghuang/magpie](https://github.com/haifenghuang/magpie) - :bird: Successor of my monkey Interpreter(support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL).
-- [360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
-- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
-- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [alash3al/sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [beinan/gql-server](https://github.com/beinan/gql-server) - 
-- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) - Outline Shadowsocks server
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
-- [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
-- [golang/leveldb](https://github.com/golang/leveldb) - The LevelDB key-value database in the Go programming language.
-- [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
-- [golang/go](https://github.com/golang/go) - The Go programming language
-- [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
-- [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
-- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
-- [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser :rocket:
+- [usercorn](https://github.com/lunixbochs/usercorn) - dynamic binary analysis via platform emulation
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [gosec](https://github.com/securego/gosec) - Golang security checker
+- [roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
+- [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
+- [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
+- [go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
+- [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
+- [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
+- [history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
+- [lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+- [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
+- [go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
+- [cron](https://github.com/robfig/cron) - a cron library for go
+- [httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
+- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [basalt](https://github.com/rpcxio/basalt) - 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在,日活统计，签到，打点等等
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [ddd](https://github.com/changkun/ddd) - ddd is a 3d rasterizer written in pure Go
+- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
+- [gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - Go语言圣经中文版(只接收PR, Issue请提交到golang-china/gopl-zh)
+- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+- [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [gorocksdb](https://github.com/tecbot/gorocksdb) - gorocksdb is a Go wrapper for RocksDB
+- [proposal](https://github.com/golang/proposal) - Go Project Design Documents
+- [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
+- [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
+- [EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
+- [vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
+- [godump](https://github.com/gostaticanalysis/godump) - Tool: godump dumps AST and SSA IR of given source codes
+- [GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
+- [benchmarks](https://github.com/golang/benchmarks) - Benchmarks for the perf dashboard
+- [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [termui](https://github.com/gizak/termui) - Golang terminal dashboard
+- [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+- [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
+- [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
+- [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+- [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
+- [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
+- [dependency-graph](https://github.com/zoroqi/dependency-graph) - Visualize Go Dependency Trees
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
+- [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+- [gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
+- [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+- [minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
+- [errors](https://github.com/pkg/errors) - Simple error handling primitives
+- [wa](https://github.com/wa-lang/wa) - 凹语言(凹读音“Wa”)(The Wa Programming Language)
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
+- [gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) - detect dependencies which may conflict
+- [golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
+- [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
+- [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
+- [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+- [kyaml2go](https://github.com/PrasadG193/kyaml2go) - K8s Go client code generator from Kubernetes resource yamls
+- [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的开发框架，可以快速进行业务开发，遵循SOLID设计原则
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [gold](https://github.com/go101/gold) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
+- [gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
+- [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
+- [go-sql-driver-spanner](https://github.com/rakyll/go-sql-driver-spanner) - Google Cloud Spanner driver for Go
+- [KuZuTeTuMaChi](https://github.com/zoroqi/KuZuTeTuMaChi) - クズ鉄町　一样的的代码集合, 积攒之后可能找到宝藏吧
+- [pkg](https://github.com/coreos/pkg) - a collection of go utility packages
+- [stupid-self](https://github.com/zoroqi/stupid-self) - stupid self
+- [dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
+- [Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
+- [perf](https://github.com/golang/perf) - [mirror] Performance measurement, storage, and analysis.
+- [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
+- [tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
+- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [btree](https://github.com/google/btree) - 
+- [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port!
+- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
+- [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
+- [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
+- [go-diff-image](https://github.com/murooka/go-diff-image) - 
+- [city-geo](https://github.com/88250/city-geo) - 🌄 中国城市经纬度数据。
+- [YouTubeCrawler](https://github.com/labuladong/YouTubeCrawler) - 自动搬运 YouTube 视频并压制字幕
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+- [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
+- [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
+- [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, GOP cache. || Go直播流媒体网络传输服务器
+- [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
+- [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
+- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+- [go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
+- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+- [qrpc](https://github.com/zhiqiangxu/qrpc) - tiny but powerful rpc framework
+- [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
+- [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
+- [endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
+- [pd](https://github.com/tikv/pd) - Placement driver for TiKV
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+- [gotlang](https://github.com/chai2010/gotlang) - :dog::dog::dog: 狗头语言（gotlang） :dog::dog::dog:
+- [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
+- [schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
+- [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
+- [nff-go](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF)
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
+- [starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
+- [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
+- [awesome-go-zh](https://github.com/chai2010/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
+- [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
+- [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [goid](https://github.com/changkun/goid) - retrieve a goroutine id in Go 1
+- [valkeyrie](https://github.com/abronan/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go
+- [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
+- [resp3](https://github.com/smallnest/resp3) - First redis RESP3 protocol library in Go
+- [tlogdb](https://github.com/rsc/tlogdb) - Reusable transparent log database
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [oklog](https://github.com/1046102779/oklog) - translation OKLog
+- [tools](https://github.com/golang/tools) - [mirror] Go Tools
+- [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
+- [appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
+- [rend](https://github.com/Netflix/rend) - A memcached proxy that manages data chunking and L1 / L2 caches
+- [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
+- [NeteaseCloudMusicFlac](https://github.com/lifei6671/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地.。
+- [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
+- [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
+- [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
+- [pilosa](https://github.com/pilosa/pilosa) - Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
+- [btrdb-server](https://github.com/BTrDB/btrdb-server) - Berkeley Tree Database (BTrDB) server
+- [btrdb](https://github.com/BTrDB/btrdb) - BTrDB Golang bindings
+- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
+- [freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
+- [ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
+- [govmm](https://github.com/kata-containers/govmm) - Virtual Machine Manager for Go (govmm) is a suite of packages that provide Go APIs for creating and managing virtual machines.
+- [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [debug](https://github.com/golang/debug) - [mirror] debugging tools
+- [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
+- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+- [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
+- [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
+- [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query parameters.
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
+- [uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
+- [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
+- [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
+- [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
+- [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
+- [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [rocketmq](https://github.com/sevennt/rocketmq) - RocketMQ client for go supportting producer and consumer.
+- [rocketmq](https://github.com/dengyuankai272/rocketmq) - RocketMQ client for go supportting producer and consumer.
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
+- [magpie](https://github.com/haifenghuang/magpie) - :bird: Successor of my monkey Interpreter(support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL).
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
+- [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+- [wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
+- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [gql-server](https://github.com/beinan/gql-server) - 
+- [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) - Outline Shadowsocks server
+- [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
+- [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [leveldb](https://github.com/golang/leveldb) - The LevelDB key-value database in the Go programming language.
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
+- [go](https://github.com/golang/go) - The Go programming language
+- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
+- [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
+- [kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 
 ## HTML 
 
-- [HaskellCNOrg/haskellcn](https://github.com/HaskellCNOrg/haskellcn) - home page
-- [yangchuansheng/prometheus-handbook](https://github.com/yangchuansheng/prometheus-handbook) - Prometheus 中文文档
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
-- [emon100/goto-translation](https://github.com/emon100/goto-translation) - 重新审视 《GOTO 语句被认为有害》的翻译
-- [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit) - Solutions to tasks in over 700 programming languages
-- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
-- [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
-- [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
-- [goldshtn/linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) - Examples and hands-on labs for Linux tracing tools workshops
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+- [haskellcn](https://github.com/HaskellCNOrg/haskellcn) - home page
+- [prometheus-handbook](https://github.com/yangchuansheng/prometheus-handbook) - Prometheus 中文文档
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [goto-translation](https://github.com/emon100/goto-translation) - 重新审视 《GOTO 语句被认为有害》的翻译
+- [RosettaGit](https://github.com/ad-si/RosettaGit) - Solutions to tasks in over 700 programming languages
+- [golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+- [blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
+- [Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
+- [linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) - Examples and hands-on labs for Linux tracing tools workshops
+- [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
 
 ## Haskell 
 
-- [facebookincubator/retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
-- [google-research/dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
-- [Idris-zh/Idris-dev](https://github.com/Idris-zh/Idris-dev) - 用作文档目的，翻译方式见 Issue #10
-- [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
+- [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
+- [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+- [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+- [real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
+- [Idris-dev](https://github.com/Idris-zh/Idris-dev) - 用作文档目的，翻译方式见 Issue #10
+- [fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
 
 ## HolyC 
 
-- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
+- [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
 
 ## Java 
 
-- [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
-- [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
-- [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
-- [sjPlot/Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
-- [KFCFans/PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
-- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
-- [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
-- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [justauth/JustAuth](https://github.com/justauth/JustAuth) - :100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
-- [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
-- [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
-- [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
-- [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
-- [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
-- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [chenghanpeng/jdk8u60](https://github.com/chenghanpeng/jdk8u60) - 《JVM G1源码分析和调优》一书参考的代码
-- [optimaize/language-detector](https://github.com/optimaize/language-detector) - Language Detection Library for Java
-- [zoroqi/text_parse](https://github.com/zoroqi/text_parse) - 
-- [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
-- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-- [apache/flink](https://github.com/apache/flink) - Apache Flink
-- [twogoods/AsyncDao](https://github.com/twogoods/AsyncDao) - Async SQL mapper framework
-- [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [xetorthio/jedis](https://github.com/xetorthio/jedis) - A blazingly small and sane redis java client
-- [hankcs/AhoCorasickDoubleArrayTrie](https://github.com/hankcs/AhoCorasickDoubleArrayTrie) - An extremely fast implementation of Aho Corasick algorithm based on Double Array Trie.
-- [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-- [zhihuili/flower](https://github.com/zhihuili/flower) - 反应式微服务框架Flower
-- [google/thread-weaver](https://github.com/google/thread-weaver) - A Java framework for testing multithreaded code.
-- [gmethvin/directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
-- [ReactivePlatform/Spring-In-Action-5](https://github.com/ReactivePlatform/Spring-In-Action-5) - 《Spring 5实战》中文版代码清单
-- [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
-- [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
-- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
-- [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
-- [stleary/JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
+- [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
+- [calcite](https://github.com/apache/calcite) - Apache Calcite
+- [intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
+- [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
+- [Zettelkasten](https://github.com/sjPlot/Zettelkasten) - Zettelkasten-Developer-Builds
+- [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
+- [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
+- [fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
+- [lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
+- [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+- [hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [JustAuth](https://github.com/justauth/JustAuth) - :100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
+- [jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
+- [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+- [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
+- [jdk](https://github.com/openjdk/jdk) - JDK main-line development
+- [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
+- [Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [jdk8u60](https://github.com/chenghanpeng/jdk8u60) - 《JVM G1源码分析和调优》一书参考的代码
+- [language-detector](https://github.com/optimaize/language-detector) - Language Detection Library for Java
+- [text_parse](https://github.com/zoroqi/text_parse) - 
+- [smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
+- [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [guava](https://github.com/google/guava) - Google core libraries for Java
+- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [flink](https://github.com/apache/flink) - Apache Flink
+- [AsyncDao](https://github.com/twogoods/AsyncDao) - Async SQL mapper framework
+- [jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
+- [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
+- [jedis](https://github.com/xetorthio/jedis) - A blazingly small and sane redis java client
+- [AhoCorasickDoubleArrayTrie](https://github.com/hankcs/AhoCorasickDoubleArrayTrie) - An extremely fast implementation of Aho Corasick algorithm based on Double Array Trie.
+- [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+- [flower](https://github.com/zhihuili/flower) - 反应式微服务框架Flower
+- [thread-weaver](https://github.com/google/thread-weaver) - A Java framework for testing multithreaded code.
+- [directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
+- [Spring-In-Action-5](https://github.com/ReactivePlatform/Spring-In-Action-5) - 《Spring 5实战》中文版代码清单
+- [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
+- [corretto-8](https://github.com/corretto/corretto-8) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+- [vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
+- [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- [vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
+- [nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
+- [JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
 
 ## JavaScript 
 
-- [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
-- [adoyle-h/Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) - 博观而约取，厚积而薄发。
-- [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
-- [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
-- [jining1/reading](https://github.com/jining1/reading) - OpenmindClub IA005 project：以认知的角度看阅读
-- [ix64/unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
-- [fleurer/lyah](https://github.com/fleurer/lyah) - learn you a haskell  for great good 中文版
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [thzt/awesome-modules](https://github.com/thzt/awesome-modules) - Modules in various programming languages.
-- [x1y9/justmd](https://github.com/x1y9/justmd) - markdown editor for windows/linux/osx
-- [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
+- [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
+- [province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
+- [Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) - 博观而约取，厚积而薄发。
+- [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
+- [mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
+- [reading](https://github.com/jining1/reading) - OpenmindClub IA005 project：以认知的角度看阅读
+- [unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+- [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
+- [lyah](https://github.com/fleurer/lyah) - learn you a haskell  for great good 中文版
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [awesome-modules](https://github.com/thzt/awesome-modules) - Modules in various programming languages.
+- [justmd](https://github.com/x1y9/justmd) - markdown editor for windows/linux/osx
+- [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 
 ## Jupyter Notebook 
 
-- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
-- [google/automl](https://github.com/google/automl) - Google Brain AutoML
-- [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
-- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
-- [oldratlee/data-science-practice](https://github.com/oldratlee/data-science-practice) - 数据科学实践 | data science practice
-- [oldratlee/statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) - 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
-- [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) - 台湾大学李宏毅老师机器学习
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [automl](https://github.com/google/automl) - Google Brain AutoML
+- [pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
+- [google-research](https://github.com/google-research/google-research) - Google Research
+- [DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
+- [data-science-practice](https://github.com/oldratlee/data-science-practice) - 数据科学实践 | data science practice
+- [statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) - 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
+- [NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) - 台湾大学李宏毅老师机器学习
+- [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 
 ## Kotlin 
 
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plug-in for IDEs based on the IntelliJ platform.
-- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌  The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
-- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+- [ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plug-in for IDEs based on the IntelliJ platform.
+- [transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌  The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## Lua 
 
-- [cf020031308/cf020031308.github.io](https://github.com/cf020031308/cf020031308.github.io) - A collection of my personal knowledge, and tools to manage it.
+- [cf020031308.github.io](https://github.com/cf020031308/cf020031308.github.io) - A collection of my personal knowledge, and tools to manage it.
 
 ## Makefile 
 
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Objective-C 
 
-- [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS
+- [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS
 
 ## Others 
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [changkun/talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
-- [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
-- [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
-- [cristaloleg/awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
-- [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
-- [zoroqi/my-awesome](https://github.com/zoroqi/my-awesome) - My Awesome List
-- [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [KeKe-Li/book](https://github.com/KeKe-Li/book) - :books: All programming languages books
-- [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
-- [88250/awesome-seeds](https://github.com/88250/awesome-seeds) - 🌱 发现新鲜有趣的小型开源项目，欢迎投稿！
-- [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-- [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
-- [qqqil/books](https://github.com/qqqil/books) - 我读过的书。嘿嘿，分享给你。
-- [yangwenmai/learning-growth](https://github.com/yangwenmai/learning-growth) - 主要是我的一些阅读、学习、社交、研究、思考、放松娱乐记录整理。
-- [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) - :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-- [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
-- [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
-- [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-- [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [zoroqi/clipboard](https://github.com/zoroqi/clipboard) - 
-- [zoroqi/Langeweile](https://github.com/zoroqi/Langeweile) - Das Leben „schwingt also, gleich einem Pendel, hin und her zwischen dem Schmerz und der Langeweile“.
-- [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
-- [JerryYangSH/LockFreeProgrammingPractice](https://github.com/JerryYangSH/LockFreeProgrammingPractice) - Lock free 论文集合，若干无锁数据结构实现的经典论文，500多页
-- [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) - Python数据科学速查表
-- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
-- [Allenxuxu/uber-go-guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南(译)
-- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式，虚拟化，机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
-- [pingcap/presentations](https://github.com/pingcap/presentations) - 
-- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [RustStudy/rust_daily_news](https://github.com/RustStudy/rust_daily_news) - Rust每日新闻
-- [wenhan-wu/OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog) - Bilibili 公开课目录
-- [gocn/knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
-- [theburningmonk/getting-started-with-serverless-development-with-lambda-devopsdays-ams](https://github.com/theburningmonk/getting-started-with-serverless-development-with-lambda-devopsdays-ams) - Workshop on how to get started with serverless development with AWS Lambda
-- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2020年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-- [google/bbr](https://github.com/google/bbr) - 
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
-- [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
-- [JadaGates/ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
-- [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-- [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
-- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
-- [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 中文播客：Tech, VC, Life, Movie, Design...
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [rhea1108/CSUG](https://github.com/rhea1108/CSUG) - China Scala User Group
-- [reactivemanifesto/reactivemanifesto](https://github.com/reactivemanifesto/reactivemanifesto) - The Reactive Manifesto
-- [gopherchina/conference](https://github.com/gopherchina/conference) - 
-- [panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action) - 《kotlin实战》翻译
-- [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
+- [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
+- [24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
+- [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
+- [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
+- [awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
+- [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
+- [my-awesome](https://github.com/zoroqi/my-awesome) - My Awesome List
+- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
+- [LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
+- [awesome-seeds](https://github.com/88250/awesome-seeds) - 🌱 发现新鲜有趣的小型开源项目，欢迎投稿！
+- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
+- [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
+- [books](https://github.com/qqqil/books) - 我读过的书。嘿嘿，分享给你。
+- [learning-growth](https://github.com/yangwenmai/learning-growth) - 主要是我的一些阅读、学习、社交、研究、思考、放松娱乐记录整理。
+- [jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) - :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+- [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
+- [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
+- [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
+- [books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+- [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [clipboard](https://github.com/zoroqi/clipboard) - 
+- [Langeweile](https://github.com/zoroqi/Langeweile) - Das Leben „schwingt also, gleich einem Pendel, hin und her zwischen dem Schmerz und der Langeweile“.
+- [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
+- [gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
+- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+- [awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
+- [LockFreeProgrammingPractice](https://github.com/JerryYangSH/LockFreeProgrammingPractice) - Lock free 论文集合，若干无锁数据结构实现的经典论文，500多页
+- [python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) - Python数据科学速查表
+- [builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
+- [uber-go-guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南(译)
+- [papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式，虚拟化，机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
+- [presentations](https://github.com/pingcap/presentations) - 
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+- [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [rust_daily_news](https://github.com/RustStudy/rust_daily_news) - Rust每日新闻
+- [OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog) - Bilibili 公开课目录
+- [knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
+- [getting-started-with-serverless-development-with-lambda-devopsdays-ams](https://github.com/theburningmonk/getting-started-with-serverless-development-with-lambda-devopsdays-ams) - Workshop on how to get started with serverless development with AWS Lambda
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2020年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+- [bbr](https://github.com/google/bbr) - 
+- [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
+- [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
+- [sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
+- [book](https://github.com/qyuhen/book) - 学习笔记
+- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
+- [http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
+- [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 中文播客：Tech, VC, Life, Movie, Design...
+- [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+- [CSUG](https://github.com/rhea1108/CSUG) - China Scala User Group
+- [reactivemanifesto](https://github.com/reactivemanifesto/reactivemanifesto) - The Reactive Manifesto
+- [conference](https://github.com/gopherchina/conference) - 
+- [kotlin-in-action](https://github.com/panxl6/kotlin-in-action) - 《kotlin实战》翻译
+- [go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 
 ## PHP 
 
-- [wususu/effective-resourses](https://github.com/wususu/effective-resourses) - :book:学习资源整合
-- [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
+- [effective-resourses](https://github.com/wususu/effective-resourses) - :book:学习资源整合
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+- [wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 
 ## PLpgSQL 
 
-- [aneasystone/mysql-deadlocks](https://github.com/aneasystone/mysql-deadlocks) - 收集一些常见的 MySQL 死锁案例
+- [mysql-deadlocks](https://github.com/aneasystone/mysql-deadlocks) - 收集一些常见的 MySQL 死锁案例
 
 ## Perl 
 
-- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 
 ## Python 
 
-- [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-- [Jesse-csj/TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
-- [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
-- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
-- [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
-- [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) - Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
-- [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
-- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
-- [seclab-ucr/SymTCP](https://github.com/seclab-ucr/SymTCP) - Automatic Discrepancy Discovery for DPI Elusion
-- [jindaxiang/akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
-- [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
-- [the5fire/django-practice-book](https://github.com/the5fire/django-practice-book) - 《Django企业开发实战》已出版
-- [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程
-- [princewen/tensorflow_practice](https://github.com/princewen/tensorflow_practice) - tensorflow实战练习，包括强化学习、推荐系统、nlp等
-- [wau/keras-rl2](https://github.com/wau/keras-rl2) - Reinforcement learning with tensorflow 2 keras
-- [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
-- [rogerzhu/MNWeeklyCategory](https://github.com/rogerzhu/MNWeeklyCategory) - 码农周刊一周精选分类
-- [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
-- [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
-- [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
-- [5A59/Zvm](https://github.com/5A59/Zvm) - A lightweight jvm written by python
-- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [nondanee/ncmdump](https://github.com/nondanee/ncmdump) - python版本网易云音乐ncm文件格式转换
-- [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
-- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
-- [crownpku/Rasa_NLU_Chi](https://github.com/crownpku/Rasa_NLU_Chi) - Turn Chinese natural language into structured data 中文自然语言理解
-- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [chuyangliu/snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game.
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
-- [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documents in Chinese.
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- [TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
+- [SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+- [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+- [meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
+- [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
+- [open-covid-19-data](https://github.com/google-research/open-covid-19-data) - Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
+- [pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
+- [SymTCP](https://github.com/seclab-ucr/SymTCP) - Automatic Discrepancy Discovery for DPI Elusion
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
+- [django-practice-book](https://github.com/the5fire/django-practice-book) - 《Django企业开发实战》已出版
+- [FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程
+- [tensorflow_practice](https://github.com/princewen/tensorflow_practice) - tensorflow实战练习，包括强化学习、推荐系统、nlp等
+- [keras-rl2](https://github.com/wau/keras-rl2) - Reinforcement learning with tensorflow 2 keras
+- [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
+- [MNWeeklyCategory](https://github.com/rogerzhu/MNWeeklyCategory) - 码农周刊一周精选分类
+- [GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
+- [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
+- [hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - HelloGitHub.com 网站源码
+- [Zvm](https://github.com/5A59/Zvm) - A lightweight jvm written by python
+- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [ncmdump](https://github.com/nondanee/ncmdump) - python版本网易云音乐ncm文件格式转换
+- [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
+- [HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
+- [Rasa_NLU_Chi](https://github.com/crownpku/Rasa_NLU_Chi) - Turn Chinese natural language into structured data 中文自然语言理解
+- [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game.
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+- [docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documentation in Chinese.
 
 ## Rich Text Format 
 
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 
 ## Ruby 
 
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
-- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [authorNari/g1gc-impl-book](https://github.com/authorNari/g1gc-impl-book) - 徹底解剖「G1GC」実装編
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS
-- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+- [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
+- [g1gc-impl-book](https://github.com/authorNari/g1gc-impl-book) - 徹底解剖「G1GC」実装編
+- [homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS
+- [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
+- [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 
 ## Rust 
 
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
-- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb
-- [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
-- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-- [libra/libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
+- [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [book](https://github.com/rust-lang/book) - The Rust Programming Language
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb
+- [tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
+- [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 
 ## Scala 
 
-- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
-- [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
-- [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
-- [scalaz/scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
-- [akka/akka-http](https://github.com/akka/akka-http) - The Streaming-first HTTP server/module of Akka
-- [paypal/squbs](https://github.com/paypal/squbs) - Akka Streams & Akka HTTP for Large-Scale Production Deployments
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+- [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
+- [Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
+- [zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
+- [scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
+- [akka-http](https://github.com/akka/akka-http) - The Streaming-first HTTP server/module of Akka
+- [squbs](https://github.com/paypal/squbs) - Akka Streams & Akka HTTP for Large-Scale Production Deployments
+- [akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 
 ## Shell 
 
-- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-- [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
-- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
-- [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
-- [zoroqi/dotfiles](https://github.com/zoroqi/dotfiles) - 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
-- [rupa/z](https://github.com/rupa/z) - z - jump around
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
+- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
+- [bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
+- [dotfiles](https://github.com/zoroqi/dotfiles) - 
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
+- [z](https://github.com/rupa/z) - z - jump around
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## Smarty 
 
-- [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
+- [Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
 ## Starlark 
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Swift 
 
-- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
 ## TeX 
 
-- [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
+- [thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 
 ## TypeScript 
 
-- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
-- [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
-- [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) - Source code to build vczh-libraries.github.io
-- [cuixiaorui/refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) - 重构与模式
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化全流程解决方案
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
-- [nusr/ComicHub](https://github.com/nusr/ComicHub) - 📚Comic Downloader (漫画下载器)
-- [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
-- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
-- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
+- [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) - Source code to build vczh-libraries.github.io
+- [refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) - 重构与模式
+- [github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
+- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化全流程解决方案
+- [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [ComicHub](https://github.com/nusr/ComicHub) - 📚Comic Downloader (漫画下载器)
+- [egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
+- [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+- [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 
 ## V 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vim script 
 
-- [wklken/k-vim](https://github.com/wklken/k-vim) - vim配置
+- [k-vim](https://github.com/wklken/k-vim) - vim配置
 
 
 ## License
