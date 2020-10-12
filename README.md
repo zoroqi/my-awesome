@@ -233,7 +233,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, GOP cache. || Go直播流媒体网络传输服务器
+- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, HTTP API, GOP cache. || Go直播流媒体网络传输服务器
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -651,6 +651,7 @@
 
 ## Rust 
 
+- [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
