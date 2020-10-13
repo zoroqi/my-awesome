@@ -112,7 +112,7 @@
 
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
-- [statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser :rocket:
+- [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [usercorn](https://github.com/lunixbochs/usercorn) - dynamic binary analysis via platform emulation
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [gosec](https://github.com/securego/gosec) - Golang security checker
@@ -366,6 +366,7 @@
 
 ## Haskell 
 
+- [regex-genex](https://github.com/audreyt/regex-genex) - Given a list of regexes, generate all possible strings that matches all of them.
 - [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -453,7 +454,7 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
-- [lyah](https://github.com/fleurer/lyah) - learn you a haskell  for great good 中文版
+- [lyah](https://github.com/flaneur2020/lyah) - learn you a haskell  for great good 中文版
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -496,7 +497,6 @@
 
 ## Others 
 
-- [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
 - [24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
@@ -590,6 +590,7 @@
 
 ## Python 
 
+- [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
 - [SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
