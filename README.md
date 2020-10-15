@@ -233,7 +233,7 @@
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [lal](https://github.com/q191201771/lal) - 🔥 Go live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, HTTP API, GOP cache. || Go直播流媒体网络传输服务器
+- [lal](https://github.com/q191201771/lal) - 🔥 Golang live stream lib/client/server. support RTMP, RTSP(sdp+rtp+rtcp), HTTP(S)-FLV, HTTP-TS, HLS(m3u8+ts), H264/AVC, H265/HEVC, AAC, relay pull & push, record, HTTP API, GOP cache. || Go直播流媒体网络传输服务器
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
@@ -497,6 +497,7 @@
 
 ## Others 
 
+- [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
 - [24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
@@ -707,7 +708,7 @@
 
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
 ## TeX 
