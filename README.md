@@ -497,6 +497,7 @@
 
 ## Others 
 
+- [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
@@ -507,7 +508,6 @@
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
-- [my-awesome](https://github.com/zoroqi/my-awesome) - My Awesome List
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
@@ -530,8 +530,6 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [clipboard](https://github.com/zoroqi/clipboard) - 
-- [Langeweile](https://github.com/zoroqi/Langeweile) - Das Leben „schwingt also, gleich einem Pendel, hin und her zwischen dem Schmerz und der Langeweile“.
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
@@ -688,7 +686,6 @@
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
-- [dotfiles](https://github.com/zoroqi/dotfiles) - 
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
