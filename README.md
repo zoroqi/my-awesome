@@ -610,7 +610,7 @@
 - [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [django-practice-book](https://github.com/the5fire/django-practice-book) - 《Django企业开发实战》已出版
-- [FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程
+- [FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
 - [tensorflow_practice](https://github.com/princewen/tensorflow_practice) - tensorflow实战练习，包括强化学习、推荐系统、nlp等
 - [keras-rl2](https://github.com/wau/keras-rl2) - Reinforcement learning with tensorflow 2 keras
 - [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
