@@ -189,7 +189,7 @@
 - [snake](https://github.com/1024casts/snake) - 🐍 一款小巧的基于Go构建的开发框架，可以快速进行业务开发，遵循SOLID设计原则
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [gold](https://github.com/go101/gold) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
+- [golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
@@ -353,7 +353,7 @@
 
 - [haskellcn](https://github.com/HaskellCNOrg/haskellcn) - home page
 - [prometheus-handbook](https://github.com/yangchuansheng/prometheus-handbook) - Prometheus 中文文档
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [goto-translation](https://github.com/emon100/goto-translation) - 重新审视 《GOTO 语句被认为有害》的翻译
 - [RosettaGit](https://github.com/ad-si/RosettaGit) - Solutions to tasks in over 700 programming languages
 - [golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
