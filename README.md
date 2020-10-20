@@ -366,6 +366,7 @@
 
 ## Haskell 
 
+- [neuron](https://github.com/srid/neuron) - Future-proof and simple-to-use notes system based on Zettelkasten.
 - [regex-genex](https://github.com/audreyt/regex-genex) - Given a list of regexes, generate all possible strings that matches all of them.
 - [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
