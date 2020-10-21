@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
@@ -417,7 +418,7 @@
 - [AsyncDao](https://github.com/twogoods/AsyncDao) - Async SQL mapper framework
 - [jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
 - [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [jedis](https://github.com/xetorthio/jedis) - A blazingly small and sane redis java client
+- [jedis](https://github.com/redis/jedis) - A blazingly small and sane redis java client
 - [AhoCorasickDoubleArrayTrie](https://github.com/hankcs/AhoCorasickDoubleArrayTrie) - An extremely fast implementation of Aho Corasick algorithm based on Double Array Trie.
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [flower](https://github.com/zhihuili/flower) - 反应式微服务框架Flower
@@ -672,6 +673,7 @@
 
 ## Scala 
 
+- [codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph) - Semantic Code Property Graph: specification, query language, and utilities
 - [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
 - [zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
