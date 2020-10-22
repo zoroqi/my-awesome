@@ -44,7 +44,7 @@
 
 ## C 
 
-- [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - Secondary Index, Query Engine & Full-Text search Engine for Redis
 - [boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
@@ -384,6 +385,7 @@
 
 ## Java 
 
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
