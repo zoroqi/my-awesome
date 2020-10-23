@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -501,6 +502,7 @@
 
 ## Others 
 
+- [obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 - [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
