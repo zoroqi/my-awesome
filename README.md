@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
