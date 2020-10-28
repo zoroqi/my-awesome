@@ -44,7 +44,7 @@
 
 ## C 
 
-- [RediSearch](https://github.com/RediSearch/RediSearch) - Secondary Index, Query Engine & Full-Text search Engine for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
