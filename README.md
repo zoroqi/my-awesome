@@ -513,7 +513,7 @@
 - [changkun/talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
 - [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
-- [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [cristaloleg/awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) - A curated list of Awesome Go performance libraries and tools
