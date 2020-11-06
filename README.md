@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (1)
-  - [Go](#go) (249)
+  - [Go](#go) (248)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
@@ -37,7 +37,7 @@
   - [Smarty](#smarty) (1)
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (5)
-  - [TeX](#tex) (2)
+  - [TeX](#tex) (3)
   - [TypeScript](#typescript) (18)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
@@ -114,7 +114,6 @@
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [hantmac/Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [panjf2000/goproxy](https://github.com/panjf2000/goproxy) - 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
 - [phodal/coca](https://github.com/phodal/coca) - Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
@@ -731,6 +730,7 @@
 
 ## TeX 
 
+- [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [gdut-yy/A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh) - 《软件设计的哲学》中文翻译 A Philosophy of Software Design
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 
