@@ -7,13 +7,13 @@
 
   - [C](#c) (13)
   - [C#](#c#) (1)
-  - [C++](#c++) (19)
+  - [C++](#c++) (20)
   - [CSS](#css) (5)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (2)
-  - [Go](#go) (251)
+  - [Go](#go) (252)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
@@ -31,7 +31,7 @@
   - [Python](#python) (47)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (11)
-  - [Rust](#rust) (17)
+  - [Rust](#rust) (18)
   - [Scala](#scala) (8)
   - [Shell](#shell) (11)
   - [Smarty](#smarty) (1)
@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [CppCon/CppCon2020](https://github.com/CppCon/CppCon2020) - Slides and other materials from CppCon 2020
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
@@ -111,6 +112,7 @@
 
 ## Go 
 
+- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
@@ -142,7 +144,7 @@
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [Arkweid/lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
+- [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) - A probe resistant proxy
@@ -587,7 +589,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 中文播客：Tech, VC, Life, Movie, Design...
+- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 中文播客：Tech, VC, Life, Design...
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [rhea1108/CSUG](https://github.com/rhea1108/CSUG) - China Scala User Group
 - [reactivemanifesto/reactivemanifesto](https://github.com/reactivemanifesto/reactivemanifesto) - The Reactive Manifesto
@@ -679,6 +681,7 @@
 
 ## Rust 
 
+- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
