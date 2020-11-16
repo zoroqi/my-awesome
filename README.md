@@ -28,7 +28,7 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (47)
+  - [Python](#python) (48)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (11)
   - [Rust](#rust) (18)
@@ -614,6 +614,7 @@
 
 ## Python 
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
