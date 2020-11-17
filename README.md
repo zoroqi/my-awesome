@@ -24,7 +24,7 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (78)
+  - [Others](#others) (79)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -519,6 +519,7 @@
 
 ## Others 
 
+- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [GB28181/GB-Docs](https://github.com/GB28181/GB-Docs) - GB-&gt;GB/T-&gt;GB/Z-&gt;GM/T-&gt;GA/T 中华人民共和国国家标准文档
 - [obsidianmd/obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
