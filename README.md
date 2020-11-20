@@ -18,7 +18,7 @@
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
   - [Java](#java) (52)
-  - [JavaScript](#javascript) (29)
+  - [JavaScript](#javascript) (30)
   - [Jupyter Notebook](#jupyter-notebook) (11)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
@@ -38,7 +38,7 @@
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (5)
   - [TeX](#tex) (3)
-  - [TypeScript](#typescript) (18)
+  - [TypeScript](#typescript) (17)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
 
@@ -476,6 +476,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) - learn you a haskell  for great good 中文版
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -767,7 +768,6 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [nusr/ComicHub](https://github.com/nusr/ComicHub) - 📚Comic Downloader (漫画下载器)
 - [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
