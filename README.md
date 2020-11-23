@@ -13,7 +13,7 @@
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (2)
-  - [Go](#go) (252)
+  - [Go](#go) (253)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
@@ -24,7 +24,7 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (80)
+  - [Others](#others) (81)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -33,7 +33,7 @@
   - [Ruby](#ruby) (11)
   - [Rust](#rust) (18)
   - [Scala](#scala) (8)
-  - [Shell](#shell) (12)
+  - [Shell](#shell) (14)
   - [Smarty](#smarty) (1)
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (5)
@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
@@ -519,6 +520,7 @@
 
 ## Others 
 
+- [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) - 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
@@ -717,6 +719,8 @@
 
 ## Shell 
 
+- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
+- [captn3m0/google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF).
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
