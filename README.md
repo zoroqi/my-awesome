@@ -8,7 +8,7 @@
   - [C](#c) (13)
   - [C#](#c#) (1)
   - [C++](#c++) (20)
-  - [CSS](#css) (5)
+  - [CSS](#css) (4)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
@@ -18,7 +18,7 @@
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
   - [Java](#java) (52)
-  - [JavaScript](#javascript) (29)
+  - [JavaScript](#javascript) (30)
   - [Jupyter Notebook](#jupyter-notebook) (11)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
@@ -33,7 +33,7 @@
   - [Ruby](#ruby) (11)
   - [Rust](#rust) (18)
   - [Scala](#scala) (8)
-  - [Shell](#shell) (14)
+  - [Shell](#shell) (15)
   - [Smarty](#smarty) (1)
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (5)
@@ -89,7 +89,6 @@
 
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
 - [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
 
@@ -476,6 +475,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) - learn you a haskell  for great good 中文版
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -719,6 +719,7 @@
 
 ## Shell 
 
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [captn3m0/google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF).
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
