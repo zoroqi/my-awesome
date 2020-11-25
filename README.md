@@ -18,13 +18,13 @@
   - [Haskell](#haskell) (10)
   - [HolyC](#holyc) (1)
   - [Java](#java) (52)
-  - [JavaScript](#javascript) (30)
+  - [JavaScript](#javascript) (29)
   - [Jupyter Notebook](#jupyter-notebook) (11)
   - [Kotlin](#kotlin) (4)
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (81)
+  - [Others](#others) (82)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -456,7 +456,6 @@
 
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
@@ -530,6 +529,7 @@
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [changkun/talks](https://github.com/changkun/talks) - Changkun Ou's talk slides since 2017.
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [rustship/24daysofrust](https://github.com/rustship/24daysofrust) - 24天学习 Rust
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
