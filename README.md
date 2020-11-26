@@ -7,7 +7,7 @@
 
   - [C](#c) (13)
   - [C#](#c#) (1)
-  - [C++](#c++) (20)
+  - [C++](#c++) (19)
   - [CSS](#css) (4)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
@@ -28,7 +28,7 @@
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
-  - [Python](#python) (48)
+  - [Python](#python) (49)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (11)
   - [Rust](#rust) (18)
@@ -67,7 +67,6 @@
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [CppCon/CppCon2020](https://github.com/CppCon/CppCon2020) - Slides and other materials from CppCon 2020
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
@@ -629,6 +628,7 @@
 - [Jesse-csj/TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) - 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
 - [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) - [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
