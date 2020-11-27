@@ -9,6 +9,7 @@
   - [C#](#c#) (1)
   - [C++](#c++) (19)
   - [CSS](#css) (4)
+  - [Clojure](#clojure) (1)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
@@ -24,7 +25,7 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (82)
+  - [Others](#others) (83)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
   - [Perl](#perl) (1)
@@ -90,6 +91,10 @@
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
 - [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
 - [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) - :book: [译] 写给人类的机器学习
+
+## Clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
 
 ## CodeQL 
 
@@ -518,6 +523,7 @@
 
 ## Others 
 
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) - 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
