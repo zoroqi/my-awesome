@@ -25,10 +25,10 @@
   - [Lua](#lua) (1)
   - [Makefile](#makefile) (1)
   - [Objective-C](#objective-c) (1)
-  - [Others](#others) (83)
+  - [Others](#others) (82)
   - [PHP](#php) (3)
   - [PLpgSQL](#plpgsql) (1)
-  - [Perl](#perl) (1)
+  - [Perl](#perl) (2)
   - [Python](#python) (49)
   - [Rich Text Format](#rich-text-format) (1)
   - [Ruby](#ruby) (11)
@@ -39,7 +39,7 @@
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (5)
   - [TeX](#tex) (3)
-  - [TypeScript](#typescript) (18)
+  - [TypeScript](#typescript) (19)
   - [V](#v) (1)
   - [Vim script](#vim-script) (1)
 
@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [argoproj/argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
@@ -242,7 +243,6 @@
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [sodaling/FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
 - [murooka/go-diff-image](https://github.com/murooka/go-diff-image) - 
-- [88250/city-geo](https://github.com/88250/city-geo) - 🌄 中国城市经纬度数据。
 - [labuladong/YouTubeCrawler](https://github.com/labuladong/YouTubeCrawler) - 自动搬运 YouTube 视频并压制字幕
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -546,7 +546,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [KeKe-Li/book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
-- [88250/awesome-seeds](https://github.com/88250/awesome-seeds) - 🌱 发现新鲜有趣的小型开源项目，欢迎投稿！
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
 - [qqqil/books](https://github.com/qqqil/books) - 我读过的书。嘿嘿，分享给你。
@@ -620,6 +619,7 @@
 
 ## Perl 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 
 ## Python 
@@ -766,6 +766,7 @@
 
 ## TypeScript 
 
+- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
