@@ -18,7 +18,7 @@
   - [HTML](#html) (12)
   - [Haskell](#haskell) (11)
   - [HolyC](#holyc) (1)
-  - [Java](#java) (52)
+  - [Java](#java) (53)
   - [JavaScript](#javascript) (29)
   - [Jupyter Notebook](#jupyter-notebook) (11)
   - [Kotlin](#kotlin) (3)
@@ -37,7 +37,7 @@
   - [Shell](#shell) (15)
   - [Smarty](#smarty) (1)
   - [Starlark](#starlark) (1)
-  - [Swift](#swift) (5)
+  - [Swift](#swift) (6)
   - [TeX](#tex) (3)
   - [TypeScript](#typescript) (19)
   - [V](#v) (1)
@@ -405,6 +405,7 @@
 
 ## Java 
 
+- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里巴巴计算平台事业部出品，为监控而生的数据库连接池
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
@@ -752,6 +753,7 @@
 
 ## Swift 
 
+- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
