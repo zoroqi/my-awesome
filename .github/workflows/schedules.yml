@@ -7,17 +7,18 @@ jobs:
     name: update my-awesome
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Python
-      uses: actions/setup-python@v1
+    - uses: actions/checkout@v2
+    - name: Set up go
+      uses: actions/setup-go@v2
       with:
-        python-version: 3.7
-    - name: Install dependencies
+        go-version: '^1.15'
+    - name: Install
       run: |
-        git clone -b zoroqi https://github.com/zoroqi/starred.git
-        cd starred
-        python setup.py install
+          git clone https://github.com/zoroqi/collect-repos.git
+          cd collect-repos
+          go install
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username zoroqi --repository my-awesome --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+      run: |
+          collect-repos -username zoroqi -file README.md -repository my-awesome -token ${GITHUB_TOKEN} -branch master
