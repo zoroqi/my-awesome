@@ -8,17 +8,17 @@
   - [C](#c) (13)
   - [C#](#c#) (1)
   - [C++](#c++) (19)
-  - [CSS](#css) (4)
+  - [CSS](#css) (5)
   - [Clojure](#clojure) (1)
   - [CodeQL](#codeql) (1)
   - [CoffeeScript](#coffeescript) (1)
   - [Cuda](#cuda) (1)
   - [Dockerfile](#dockerfile) (2)
-  - [Go](#go) (254)
+  - [Go](#go) (253)
   - [HTML](#html) (12)
   - [Haskell](#haskell) (11)
   - [HolyC](#holyc) (1)
-  - [Java](#java) (53)
+  - [Java](#java) (52)
   - [JavaScript](#javascript) (29)
   - [Jupyter Notebook](#jupyter-notebook) (11)
   - [Kotlin](#kotlin) (3)
@@ -34,7 +34,7 @@
   - [Ruby](#ruby) (11)
   - [Rust](#rust) (18)
   - [Scala](#scala) (8)
-  - [Shell](#shell) (15)
+  - [Shell](#shell) (16)
   - [Smarty](#smarty) (1)
   - [Starlark](#starlark) (1)
   - [Swift](#swift) (6)
@@ -87,6 +87,7 @@
 
 ## CSS 
 
+- [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) - The art of github contributions heatmap.
 - [canmengfly/techmap](https://github.com/canmengfly/techmap) - Full internet technology map.  最全的互联网技术图谱 🔥
@@ -188,7 +189,6 @@
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [peterbourgon/diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
-- [zoroqi/dependency-graph](https://github.com/zoroqi/dependency-graph) - Visualize Go Dependency Trees
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
@@ -435,7 +435,6 @@
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [chenghanpeng/jdk8u60](https://github.com/chenghanpeng/jdk8u60) - 《JVM G1源码分析和调优》一书参考的代码
 - [optimaize/language-detector](https://github.com/optimaize/language-detector) - Language Detection Library for Java
-- [zoroqi/text_parse](https://github.com/zoroqi/text_parse) - 
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
@@ -727,6 +726,7 @@
 
 ## Shell 
 
+- [pingcap/blog-cn](https://github.com/pingcap/blog-cn) - 
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [captn3m0/google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF).
