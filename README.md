@@ -124,7 +124,7 @@
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) pushed_at:2020-10 :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) pushed_at:2020-09 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [nakabonne/ali](https://github.com/nakabonne/ali) pushed_at:2020-12 Generate HTTP load and plot the results in real-time
-- [iawia002/annie](https://github.com/iawia002/annie) pushed_at:2020-11 👾 Fast, simple and clean video downloader
+- [iawia002/annie](https://github.com/iawia002/annie) pushed_at:2020-12 👾 Fast, simple and clean video downloader
 - [machinebox/appify](https://github.com/machinebox/appify) pushed_at:2020-05 Create a macOS Application from an executable (like a Go binary)
 - [uber/aresdb](https://github.com/uber/aresdb) pushed_at:2020-09 A GPU-powered real-time analytics storage and query engine. 
 - [argoproj/argo](https://github.com/argoproj/argo) pushed_at:2020-12 Argo Workflows: Get stuff done with Kubernetes.
@@ -186,7 +186,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) pushed_at:2020-12 Declarative web scraping
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) pushed_at:2020-11 Flags-first package for configuration
 - [felixge/fgprof](https://github.com/felixge/fgprof) pushed_at:2020-12 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) pushed_at:2020-11 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) pushed_at:2020-12 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [coocood/freecache](https://github.com/coocood/freecache) pushed_at:2020-12 A cache library for Go with zero GC overhead.
 - [fatedier/frp](https://github.com/fatedier/frp) pushed_at:2020-12 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) pushed_at:2020-12 Cross platform GUI in Go based on Material Design
@@ -236,7 +236,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) pushed_at:2020-12 Gogs is a painless self-hosted Git service
 - [changkun/goid](https://github.com/changkun/goid) pushed_at:2019-08 retrieve a goroutine id in Go 1
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) pushed_at:2020-12 Go source code analysis(zh-cn)
-- [yuin/goldmark](https://github.com/yuin/goldmark) pushed_at:2020-10 :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [yuin/goldmark](https://github.com/yuin/goldmark) pushed_at:2020-12 :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [go101/golds](https://github.com/go101/golds) pushed_at:2020-12 An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) pushed_at:2020-11 LevelDB key/value database in Go.
 - [cch123/gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) pushed_at:2020-04 detect dependencies which may conflict
@@ -588,7 +588,7 @@
 - [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) pushed_at:2020-08 《Go专家编程》Go语言快速入门，轻松进阶！
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) pushed_at:2020-11 Roadmap to becoming a Go developer in 2020
 - [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) pushed_at:2020-07 :us: Google 全球 IP 地址库
-- [github/gov-takedowns](https://github.com/github/gov-takedowns) pushed_at:2020-10 Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
+- [github/gov-takedowns](https://github.com/github/gov-takedowns) pushed_at:2020-12 Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) pushed_at:2020-11 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) pushed_at:2020-12 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) pushed_at:2020-11 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -613,7 +613,7 @@
 - [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2020-11 
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) pushed_at:2020-12 Prometheus操作指南
 - [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) pushed_at:2018-09 Python数据科学速查表
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) pushed_at:2020-09 Raft一致性算法论文的中文翻译
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) pushed_at:2020-12 Raft一致性算法论文的中文翻译
 - [reactivemanifesto/reactivemanifesto](https://github.com/reactivemanifesto/reactivemanifesto) pushed_at:2020-12 The Reactive Manifesto
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) pushed_at:2020-10 技术面试最后反问面试官的话
 - [RustStudy/rust_daily_news](https://github.com/RustStudy/rust_daily_news) pushed_at:2019-09 Rust每日新闻
@@ -622,7 +622,7 @@
 - [JadaGates/ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) pushed_at:2020-06 记录一下SS的前世今生，以及一个简单的教程总结
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) pushed_at:2020-12 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [changkun/talks](https://github.com/changkun/talks) pushed_at:2020-10 Changkun Ou's talk slides since 2017.
-- [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) pushed_at:2020-11 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
+- [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) pushed_at:2020-12 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) pushed_at:2020-12 Master the command line, in one page
 - [oldratlee/translations](https://github.com/oldratlee/translations) pushed_at:2020-12 🐼 Chinese translations for classic IT resources
 - [Allenxuxu/uber-go-guide](https://github.com/Allenxuxu/uber-go-guide) pushed_at:2020-01 Uber Go 风格指南(译)
