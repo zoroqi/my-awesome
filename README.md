@@ -15,12 +15,12 @@
 - [CoffeeScript](#coffeescript) (1)
 - [Cuda](#cuda) (1)
 - [Dockerfile](#dockerfile) (1)
-- [Go](#go) (259)
+- [Go](#go) (258)
 - [HTML](#html) (13)
 - [Haskell](#haskell) (11)
 - [HolyC](#holyc) (1)
 - [Java](#java) (56)
-- [JavaScript](#javascript) (32)
+- [JavaScript](#javascript) (33)
 - [Jupyter Notebook](#jupyter-notebook) (11)
 - [Kotlin](#kotlin) (3)
 - [Lua](#lua) (1)
@@ -306,7 +306,7 @@
 - [overnote/over-golang](https://github.com/overnote/over-golang) pushed_at:2020-10 Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [tikv/pd](https://github.com/tikv/pd) pushed_at:2020-12 Placement driver for TiKV
 - [golang/perf](https://github.com/golang/perf) pushed_at:2020-12 [mirror] Performance measurement, storage, and analysis.
-- [spf13/pflag](https://github.com/spf13/pflag) pushed_at:2020-11 Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+- [spf13/pflag](https://github.com/spf13/pflag) pushed_at:2020-12 Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [pilosa/pilosa](https://github.com/pilosa/pilosa) pushed_at:2020-12 Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [coreos/pkg](https://github.com/coreos/pkg) pushed_at:2019-11 a collection of go utility packages
 - [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2020-12 [mirror] Home of the pkg.go.dev website
@@ -339,7 +339,6 @@
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) pushed_at:2020-11 Plot your repository stars over time.
 - [google/starlark-go](https://github.com/google/starlark-go) pushed_at:2020-12 Starlark in Go: the Starlark configuration language, implemented in Go
 - [statping/statping](https://github.com/statping/statping) pushed_at:2020-12 Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [arl/statsviz](https://github.com/arl/statsviz) pushed_at:2020-11 :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) pushed_at:2020-11 A golang package for converting to snake_case or CamelCase
 - [studygolang/studygolang](https://github.com/studygolang/studygolang) pushed_at:2020-11 Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [zoroqi/stupid-self](https://github.com/zoroqi/stupid-self) pushed_at:2020-11 stupid self
@@ -444,7 +443,7 @@
 - [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht) pushed_at:2020-12 Master repository for the JGraphT project
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) pushed_at:2020-12 🏗 Build container images for your Java applications.
 - [stleary/JSON-java](https://github.com/stleary/JSON-java) pushed_at:2020-12 A reference implementation of a JSON package in Java.
-- [jhy/jsoup](https://github.com/jhy/jsoup) pushed_at:2020-12 jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
+- [jhy/jsoup](https://github.com/jhy/jsoup) pushed_at:2020-12 jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) pushed_at:2020-10 Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) pushed_at:2020-12 :100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [apache/kafka](https://github.com/apache/kafka) pushed_at:2020-12 Mirror of Apache Kafka
@@ -489,7 +488,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pushed_at:2020-12 :zap: Dynamically generated stats for your github readmes
 - [x1y9/justmd](https://github.com/x1y9/justmd) pushed_at:2018-06 markdown editor for windows/linux/osx
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) pushed_at:2020-02 learn you a haskell  for great good 中文版
-- [mellow-io/mellow](https://github.com/mellow-io/mellow) pushed_at:2020-11 Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
+- [mellow-io/mellow](https://github.com/mellow-io/mellow) pushed_at:2020-12 Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [github/opensource.guide](https://github.com/github/opensource.guide) pushed_at:2020-12 📚 Community guides for open source creators
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) pushed_at:2020-12 Serverless integration and compute platform.  Free for developers.
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) pushed_at:2020-11 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
@@ -497,6 +496,7 @@
 - [jining1/reading](https://github.com/jining1/reading) pushed_at:2019-07 OpenmindClub IA005 project：以认知的角度看阅读
 - [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) pushed_at:2020-12 A shadowsocks manager tool for multi user and traffic control.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) pushed_at:2020-12 Simple bookmark manager built with Go
+- [arl/statsviz](https://github.com/arl/statsviz) pushed_at:2020-12 :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [yichahucha/surge](https://github.com/yichahucha/surge) pushed_at:2020-12 Some useful scripts.
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) pushed_at:2020-12 A chrome extension for suspending all tabs to free up memory
 - [adoyle-h/Today-I-Learned](https://github.com/adoyle-h/Today-I-Learned) pushed_at:2020-11 博观而约取，厚积而薄发。
@@ -512,7 +512,7 @@
 - [google/automl](https://github.com/google/automl) pushed_at:2020-12 Google Brain AutoML
 - [madewithml/basics](https://github.com/madewithml/basics) pushed_at:2020-11 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [oldratlee/data-science-practice](https://github.com/oldratlee/data-science-practice) pushed_at:2020-01 数据科学实践 | data science practice
-- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) pushed_at:2020-11 深度学习入门教程, 优秀文章, Deep Learning Tutorial
+- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) pushed_at:2020-12 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 - [fastai/fastai](https://github.com/fastai/fastai) pushed_at:2020-12 The fastai deep learning library, plus lessons and tutorials
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2020-12 Google Research
 - [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) pushed_at:2019-07 台湾大学李宏毅老师机器学习
@@ -665,7 +665,7 @@
 - [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) pushed_at:2020-11  新闻网页正文通用抽取器 Beta 版.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) pushed_at:2020-12 A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2020-12 Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2020-11 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2020-12 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) pushed_at:2020-12 :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) pushed_at:2020-07 HelloGitHub.com 网站源码
 - [httpie/httpie](https://github.com/httpie/httpie) pushed_at:2020-12 As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -719,7 +719,7 @@
 
 ## Rust
 
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) pushed_at:2020-11 Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) pushed_at:2020-12 Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) pushed_at:2020-12 Brave's Rust-based adblock engine
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) pushed_at:2020-12 A curated list of Rust code and resources.
 - [sharkdp/bat](https://github.com/sharkdp/bat) pushed_at:2020-12 A cat(1) clone with wings.
