@@ -155,7 +155,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) pushed_at:2020-12 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [soheilhy/cmux](https://github.com/soheilhy/cmux) pushed_at:2020-12 Connection multiplexer for GoLang: serve different services on the same port!
 - [spf13/cobra](https://github.com/spf13/cobra) pushed_at:2020-12 A Commander for modern Go CLI interactions
-- [phodal/coca](https://github.com/phodal/coca) pushed_at:2020-11 Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。
+- [phodal/coca](https://github.com/phodal/coca) pushed_at:2020-12 Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。
 - [google/codesearch](https://github.com/google/codesearch) pushed_at:2020-03 Fast, indexed regexp search over large file trees
 - [klauspost/compress](https://github.com/klauspost/compress) pushed_at:2020-12 Optimized compression packages
 - [hashicorp/consul](https://github.com/hashicorp/consul) pushed_at:2020-12 Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -318,7 +318,7 @@
 - [google/pprof](https://github.com/google/pprof) pushed_at:2020-12 pprof is a tool for visualization and analysis of profiling data
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) pushed_at:2020-12 The Prometheus monitoring system and time series database.
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2020-12 Go Project Design Documents
-- [jdkato/prose](https://github.com/jdkato/prose) pushed_at:2020-11 :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [jdkato/prose](https://github.com/jdkato/prose) pushed_at:2020-12 :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) pushed_at:2020-12 Push acceptor for ephemeral and batch jobs.
 - [zhiqiangxu/qrpc](https://github.com/zhiqiangxu/qrpc) pushed_at:2020-06 tiny but powerful rpc framework
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) pushed_at:2020-12 A QUIC implementation in pure go
@@ -492,7 +492,7 @@
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) pushed_at:2020-09 🇨🇳🎨Chinese traditional color cheatsheet online
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) pushed_at:2020-12 中文独立博客列表
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) pushed_at:2020-12 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) pushed_at:2020-06 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+- [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) pushed_at:2020-12 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [jgraph/drawio](https://github.com/jgraph/drawio) pushed_at:2020-12 Source to app.diagrams.net
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) pushed_at:2020-04 Bring charts to terminal.
 - [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) pushed_at:2020-08 Evil Huawei - 华为作过的恶
@@ -529,7 +529,7 @@
 - [fastai/fastai](https://github.com/fastai/fastai) pushed_at:2020-12 The fastai deep learning library, plus lessons and tutorials
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2020-12 Google Research
 - [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) pushed_at:2019-07 台湾大学李宏毅老师机器学习
-- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2020-07 PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2020-12 PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) pushed_at:2020-12 Fast, general, and tested differentiable structured prediction in PyTorch
 - [oldratlee/statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) pushed_at:2019-11 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) pushed_at:2020-12 One has no future if one couldn't teach themself.
@@ -609,7 +609,7 @@
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) pushed_at:2020-10 A document describing the HTTP/3 and QUIC protocols
 - [lcybuzz/Image-Processing-Paper-Record](https://github.com/lcybuzz/Image-Processing-Paper-Record) pushed_at:2020-12 记录图像增强, 恢复, 去噪, deblur等low level vision任务相关论文
 - [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) pushed_at:2020-03 🦓<->🦒 🌃<->🌆  A collection of image to image papers with code (constantly updating)
-- [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) pushed_at:2020-11 :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
+- [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) pushed_at:2020-12 :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
 - [gocn/knowledge](https://github.com/gocn/knowledge) pushed_at:2020-12 Go社区的知识图谱，Knowledge Graph
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2020-12 The Kotlin Programming Language
 - [panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action) pushed_at:2018-11 《kotlin实战》翻译
@@ -680,7 +680,7 @@
 - [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) pushed_at:2020-12  新闻网页正文通用抽取器 Beta 版.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) pushed_at:2020-12 A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2020-12 Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2020-12 Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2020-12 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) pushed_at:2020-12 :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) pushed_at:2020-07 HelloGitHub.com 网站源码
 - [httpie/httpie](https://github.com/httpie/httpie) pushed_at:2020-12 As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
