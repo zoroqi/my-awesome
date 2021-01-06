@@ -54,12 +54,12 @@
 
 ## C
 
-- [google/boringssl](https://github.com/google/boringssl) pushed_at:2020-12 Mirror of BoringSSL
+- [google/boringssl](https://github.com/google/boringssl) pushed_at:2021-01 Mirror of BoringSSL
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) pushed_at:2020-12 A Dead Simple VPN.
 - [git/git](https://github.com/git/git) pushed_at:2021-01 Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) pushed_at:2021-01 sqlite3 driver for go using database/sql
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) pushed_at:2021-01 GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [robotn/gohook](https://github.com/robotn/gohook) pushed_at:2020-12 GoHook, Go global keyboard and mouse listener hook
+- [robotn/gohook](https://github.com/robotn/gohook) pushed_at:2021-01 GoHook, Go global keyboard and mouse listener hook
 - [feiskyer/linux-perf-examples](https://github.com/feiskyer/linux-perf-examples) pushed_at:2020-01 极客时间《Linux 性能优化实战》案例
 - [memcached/memcached](https://github.com/memcached/memcached) pushed_at:2020-12 memcached development tree
 - [netdata/netdata](https://github.com/netdata/netdata) pushed_at:2021-01 Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -91,7 +91,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) pushed_at:2021-01 Godot Engine – Multi-platform 2D and 3D game engine
 - [lightvector/KataGo](https://github.com/lightvector/KataGo) pushed_at:2021-01 GTP engine and self-play learning in Go
 - [google/leveldb](https://github.com/google/leveldb) pushed_at:2021-01 LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [alibaba/MNN](https://github.com/alibaba/MNN) pushed_at:2020-12 MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [alibaba/MNN](https://github.com/alibaba/MNN) pushed_at:2021-01 MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) pushed_at:2021-01   A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) pushed_at:2021-01 Protocol Buffers - Google's data interchange format
 - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) pushed_at:2020-12 Free news feeds reader
@@ -175,13 +175,13 @@
 - [urfave/cli](https://github.com/urfave/cli) pushed_at:2021-01 A simple, fast, and fun package for building command line apps in Go
 - [cli/cli](https://github.com/cli/cli) pushed_at:2021-01 GitHub’s official command line tool
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) pushed_at:2020-12 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [soheilhy/cmux](https://github.com/soheilhy/cmux) pushed_at:2020-12 Connection multiplexer for GoLang: serve different services on the same port!
+- [soheilhy/cmux](https://github.com/soheilhy/cmux) pushed_at:2021-01 Connection multiplexer for GoLang: serve different services on the same port!
 - [spf13/cobra](https://github.com/spf13/cobra) pushed_at:2021-01 A Commander for modern Go CLI interactions
-- [phodal/coca](https://github.com/phodal/coca) pushed_at:2020-12 Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。
+- [phodal/coca](https://github.com/phodal/coca) pushed_at:2021-01 Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。
 - [google/codesearch](https://github.com/google/codesearch) pushed_at:2020-03 Fast, indexed regexp search over large file trees
 - [klauspost/compress](https://github.com/klauspost/compress) pushed_at:2020-12 Optimized compression packages
 - [hashicorp/consul](https://github.com/hashicorp/consul) pushed_at:2021-01 Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [robfig/cron](https://github.com/robfig/cron) pushed_at:2020-12 a cron library for go
+- [robfig/cron](https://github.com/robfig/cron) pushed_at:2021-01 a cron library for go
 - [golang/crypto](https://github.com/golang/crypto) pushed_at:2021-01 [mirror] Go supplementary cryptography libraries
 - [changkun/ddd](https://github.com/changkun/ddd) pushed_at:2020-11 ddd is a 3d rasterizer written in pure Go
 - [golang/debug](https://github.com/golang/debug) pushed_at:2020-12 [mirror] debugging tools
@@ -212,7 +212,7 @@
 - [felixge/fgprof](https://github.com/felixge/fgprof) pushed_at:2020-12 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) pushed_at:2020-12 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [coocood/freecache](https://github.com/coocood/freecache) pushed_at:2020-12 A cache library for Go with zero GC overhead.
-- [fatedier/frp](https://github.com/fatedier/frp) pushed_at:2020-12 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [fatedier/frp](https://github.com/fatedier/frp) pushed_at:2021-01 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) pushed_at:2021-01 Cross platform GUI in Go based on Material Design
 - [junegunn/fzf](https://github.com/junegunn/fzf) pushed_at:2021-01 :cherry_blossom: A command-line fuzzy finder
 - [alexflint/gallium](https://github.com/alexflint/gallium) pushed_at:2018-10 Build desktop applications in Go and HTML.
@@ -241,7 +241,7 @@
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) pushed_at:2020-11 🎨 The adorable charts library for Golang
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) pushed_at:2020-12 Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [go-git/go-git](https://github.com/go-git/go-git) pushed_at:2020-12 A highly extensible Git implementation in pure Go.
-- [google/go-github](https://github.com/google/go-github) pushed_at:2020-12 Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) pushed_at:2021-01 Go library for accessing the GitHub API
 - [draveness/go-internal](https://github.com/draveness/go-internal) pushed_at:2020-04 《Go 语言设计与实现》示例代码
 - [go-internals-cn/go-internals](https://github.com/go-internals-cn/go-internals) pushed_at:2020-12 Chinese Translation of https://github.com/teh-cmc/go-internals
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) pushed_at:2021-01 IPFS implementation in Go
@@ -253,7 +253,7 @@
 - [rakyll/go-sql-driver-spanner](https://github.com/rakyll/go-sql-driver-spanner) pushed_at:2020-05 Google Cloud Spanner driver for Go
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) pushed_at:2020-11 :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) pushed_at:2020-09 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
-- [ouqiang/gocron](https://github.com/ouqiang/gocron) pushed_at:2020-12 定时任务管理系统
+- [ouqiang/gocron](https://github.com/ouqiang/gocron) pushed_at:2021-01 定时任务管理系统
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) pushed_at:2020-08 A Golang Job Scheduling Package.
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) pushed_at:2020-12 Minimalist Go package aimed at creating Console User Interfaces.
 - [mattn/godown](https://github.com/mattn/godown) pushed_at:2020-12 Convert HTML into Markdown
@@ -274,7 +274,7 @@
 - [goplus/gop](https://github.com/goplus/gop) pushed_at:2021-01 GoPlus - The Go+ language for data science
 - [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) pushed_at:2020-11 Go语言圣经中文版(只接收PR, Issue请提交到golang-china/gopl-zh)
 - [panjf2000/goproxy](https://github.com/panjf2000/goproxy) pushed_at:2019-12 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
-- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) pushed_at:2020-12 A global proxy for Go modules.
+- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) pushed_at:2021-01 A global proxy for Go modules.
 - [google/gops](https://github.com/google/gops) pushed_at:2020-12 A tool to list and diagnose Go processes currently running on your system
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) pushed_at:2021-01 psutil for golang
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) pushed_at:2020-12 A little like that j-thing, only in Go.
@@ -288,7 +288,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) pushed_at:2020-11 Make JSON greppable!
 - [go-ego/gse](https://github.com/go-ego/gse) pushed_at:2021-01 Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
 - [helm/helm](https://github.com/helm/helm) pushed_at:2021-01 The Kubernetes Package Manager
-- [golang-design/history](https://github.com/golang-design/history) pushed_at:2020-12 📝  Go: A Documentary | https://golang.design/history
+- [golang-design/history](https://github.com/golang-design/history) pushed_at:2021-01 📝  Go: A Documentary | https://golang.design/history
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) pushed_at:2020-12 It's like curl -v, with colours. 
 - [sergeyfrolov/httpt](https://github.com/sergeyfrolov/httpt) pushed_at:2020-08 A probe resistant proxy
 - [github/hub](https://github.com/github/hub) pushed_at:2020-12 A command-line tool that makes git easier to use with GitHub.
@@ -310,7 +310,7 @@
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) pushed_at:2021-01 ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [Arkweid/lefthook](https://github.com/Arkweid/lefthook) pushed_at:2020-10 Fast and powerful Git hooks manager for any type of projects.
 - [golang/leveldb](https://github.com/golang/leveldb) pushed_at:2017-01 The LevelDB key-value database in the Go programming language.
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) pushed_at:2020-12 A toolkit for building secure, portable and lean operating systems for containers
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) pushed_at:2021-01 A toolkit for building secure, portable and lean operating systems for containers
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) pushed_at:2020-12 live video streaming server in golang
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) pushed_at:2020-12 Structured, pluggable logging for Go.
 - [grafana/loki](https://github.com/grafana/loki) pushed_at:2021-01 Like Prometheus, but for logs.
@@ -344,13 +344,13 @@
 - [spf13/pflag](https://github.com/spf13/pflag) pushed_at:2020-12 Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [pilosa/pilosa](https://github.com/pilosa/pilosa) pushed_at:2020-12 Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [coreos/pkg](https://github.com/coreos/pkg) pushed_at:2019-11 a collection of go utility packages
-- [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2020-12 [mirror] Home of the pkg.go.dev website
-- [gonum/plot](https://github.com/gonum/plot) pushed_at:2020-12 A repository for plotting and visualizing data
+- [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2021-01 [mirror] Home of the pkg.go.dev website
+- [gonum/plot](https://github.com/gonum/plot) pushed_at:2021-01 A repository for plotting and visualizing data
 - [google/pprof](https://github.com/google/pprof) pushed_at:2021-01 pprof is a tool for visualization and analysis of profiling data
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) pushed_at:2021-01 The Prometheus monitoring system and time series database.
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2020-12 Go Project Design Documents
 - [jdkato/prose](https://github.com/jdkato/prose) pushed_at:2020-12 :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
-- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) pushed_at:2020-12 Push acceptor for ephemeral and batch jobs.
+- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) pushed_at:2021-01 Push acceptor for ephemeral and batch jobs.
 - [zhiqiangxu/qrpc](https://github.com/zhiqiangxu/qrpc) pushed_at:2020-06 tiny but powerful rpc framework
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) pushed_at:2021-01 A QUIC implementation in pure go
 - [go-redis/redis](https://github.com/go-redis/redis) pushed_at:2020-12 Type-safe Redis client for Golang
@@ -368,13 +368,13 @@
 - [screego/server](https://github.com/screego/server) pushed_at:2020-12 screen sharing for developers https://screego.net/
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) pushed_at:2020-04 go port of shadowsocks (Deprecated)
 - [openacid/slim](https://github.com/openacid/slim) pushed_at:2020-12 Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
-- [1024casts/snake](https://github.com/1024casts/snake) pushed_at:2020-12 🐍 一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
+- [1024casts/snake](https://github.com/1024casts/snake) pushed_at:2021-01 🐍 一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 A distributed unique ID generator inspired by Twitter's Snowflake
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) pushed_at:2020-09 Web Scraper in Go, similar to BeautifulSoup
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) pushed_at:2021-01 Universal code search (self-hosted)
 - [alash3al/sqler](https://github.com/alash3al/sqler) pushed_at:2019-11 write APIs using direct SQL queries with no hassle, let's rethink about SQL
 - [stack-labs/stack-rpc](https://github.com/stack-labs/stack-rpc) pushed_at:2021-01 Golang RPC 开发框架
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) pushed_at:2020-12 Plot your repository stars over time.
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) pushed_at:2021-01 Plot your repository stars over time.
 - [google/starlark-go](https://github.com/google/starlark-go) pushed_at:2021-01 Starlark in Go: the Starlark configuration language, implemented in Go
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) pushed_at:2020-11 A golang package for converting to snake_case or CamelCase
 - [studygolang/studygolang](https://github.com/studygolang/studygolang) pushed_at:2020-11 Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
@@ -409,13 +409,13 @@
 - [wa-lang/wa](https://github.com/wa-lang/wa) pushed_at:2020-07 凹语言(凹读音“Wa”)(The Wa Programming Language)
 - [wailsapp/wails](https://github.com/wailsapp/wails) pushed_at:2021-01 Create desktop apps using Go and Web Technologies.
 - [adnanh/webhook](https://github.com/adnanh/webhook) pushed_at:2020-12 webhook is a lightweight incoming webhook server to run shell commands
-- [google/wire](https://github.com/google/wire) pushed_at:2020-12 Compile-time Dependency Injection for Go
+- [google/wire](https://github.com/google/wire) pushed_at:2021-01 Compile-time Dependency Injection for Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) pushed_at:2021-01 The personal information dashboard for your terminal
 - [huichen/wukong](https://github.com/huichen/wukong) pushed_at:2019-08 高度可定制的全文搜索引擎
-- [traefik/yaegi](https://github.com/traefik/yaegi) pushed_at:2020-12 Yaegi is Another Elegant Go Interpreter
+- [traefik/yaegi](https://github.com/traefik/yaegi) pushed_at:2021-01 Yaegi is Another Elegant Go Interpreter
 - [Jguer/yay](https://github.com/Jguer/yay) pushed_at:2020-12 Yet another Yogurt - An AUR Helper written in Go
 - [labuladong/YouTubeCrawler](https://github.com/labuladong/YouTubeCrawler) pushed_at:2019-08 自动搬运 YouTube 视频并压制字幕
-- [uber-go/zap](https://github.com/uber-go/zap) pushed_at:2020-12 Blazing fast, structured, leveled logging in Go.
+- [uber-go/zap](https://github.com/uber-go/zap) pushed_at:2021-01 Blazing fast, structured, leveled logging in Go.
 
 ## HTML
 
@@ -449,7 +449,7 @@
 - [audreyt/regex-genex](https://github.com/audreyt/regex-genex) pushed_at:2015-09 Given a list of regexes, generate all possible strings that matches all of them.
 - [facebookincubator/retrie](https://github.com/facebookincubator/retrie) pushed_at:2020-12 Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [github/semantic](https://github.com/github/semantic) pushed_at:2020-11 Parsing, analyzing, and comparing source code across many languages
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) pushed_at:2020-12 ShellCheck, a static analysis tool for shell scripts
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) pushed_at:2021-01 ShellCheck, a static analysis tool for shell scripts
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) pushed_at:2021-01 The Haskell Tool Stack
 
 ## HolyC
@@ -467,7 +467,7 @@
 - [dianping/cat](https://github.com/dianping/cat) pushed_at:2020-12 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) pushed_at:2020-12 Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gmethvin/directory-watcher](https://github.com/gmethvin/directory-watcher) pushed_at:2020-12 A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
-- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2020-12 阿里巴巴计算平台事业部出品，为监控而生的数据库连接池
+- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-01 阿里巴巴计算平台事业部出品，为监控而生的数据库连接池
 - [Netflix/eureka](https://github.com/Netflix/eureka) pushed_at:2020-12 AWS Service registry for resilient mid-tier load balancing and failover.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) pushed_at:2020-12 A fast JSON parser/generator for Java.  
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) pushed_at:2021-01 Feign makes writing java http clients easier
@@ -475,7 +475,7 @@
 - [zhihuili/flower](https://github.com/zhihuili/flower) pushed_at:2020-12 反应式微服务框架Flower
 - [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) pushed_at:2020-12 :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 - [graknlabs/grakn](https://github.com/graknlabs/grakn) pushed_at:2021-01 Grakn Core: The Knowledge Graph
-- [google/guava](https://github.com/google/guava) pushed_at:2020-12 Google core libraries for Java
+- [google/guava](https://github.com/google/guava) pushed_at:2021-01 Google core libraries for Java
 - [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph) pushed_at:2021-01 HugeGraph Database core component, including graph engine, API, and built-in backends
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) pushed_at:2021-01 Mirror of the IntelliJ SDK Docs Code Samples
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) pushed_at:2020-10 Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
@@ -520,13 +520,13 @@
 
 ## JavaScript
 
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) pushed_at:2020-12 :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) pushed_at:2021-01 :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) pushed_at:2021-01  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [thzt/awesome-modules](https://github.com/thzt/awesome-modules) pushed_at:2020-04 Modules in various programming languages.
 - [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) pushed_at:2020-12 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) pushed_at:2021-01 🇨🇳🎨Chinese traditional color cheatsheet online
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) pushed_at:2021-01 中文独立博客列表
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) pushed_at:2020-12 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) pushed_at:2021-01 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) pushed_at:2020-12 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [jgraph/drawio](https://github.com/jgraph/drawio) pushed_at:2021-01 Source to app.diagrams.net
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) pushed_at:2020-04 Bring charts to terminal.
@@ -537,7 +537,7 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) pushed_at:2020-10 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [x1y9/justmd](https://github.com/x1y9/justmd) pushed_at:2018-06 markdown editor for windows/linux/osx
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) pushed_at:2020-02 learn you a haskell  for great good 中文版
-- [mellow-io/mellow](https://github.com/mellow-io/mellow) pushed_at:2020-12 Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
+- [mellow-io/mellow](https://github.com/mellow-io/mellow) pushed_at:2021-01 Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [github/opensource.guide](https://github.com/github/opensource.guide) pushed_at:2021-01 📚 Community guides for open source creators
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) pushed_at:2021-01 Serverless integration and compute platform.  Free for developers.
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) pushed_at:2020-12 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
@@ -563,10 +563,10 @@
 - [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) pushed_at:2020-12 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 - [fastai/fastai](https://github.com/fastai/fastai) pushed_at:2021-01 The fastai deep learning library
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-01 Google Research
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) pushed_at:2020-12 Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) pushed_at:2021-01 Learn how to responsibly deliver value with applied ML.
 - [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) pushed_at:2019-07 台湾大学李宏毅老师机器学习
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2020-12 PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) pushed_at:2020-12 Fast, general, and tested differentiable structured prediction in PyTorch
+- [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) pushed_at:2021-01 Fast, general, and tested differentiable structured prediction in PyTorch
 - [oldratlee/statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) pushed_at:2019-11 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) pushed_at:2020-12 One has no future if one couldn't teach themself.
 
@@ -602,9 +602,9 @@
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) pushed_at:2020-08 A curated list of awesome technologies related to Anime, Comic and Games
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) pushed_at:2020-12 🖥 📊 🕹 🛠 A curated list of command line apps
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-01 A list of learning materials to understand databases internals
-- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) pushed_at:2020-12 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) pushed_at:2021-01 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) pushed_at:2020-05 A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
-- [cristaloleg/awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) pushed_at:2020-12 A curated list of Awesome Go performance libraries and tools
+- [cristaloleg/awesome-go-perf](https://github.com/cristaloleg/awesome-go-perf) pushed_at:2021-01 A curated list of Awesome Go performance libraries and tools
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) pushed_at:2021-01 A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) pushed_at:2021-01 国内低代码平台从业者交流
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) pushed_at:2020-10   A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -620,14 +620,14 @@
 - [go-programming-tour-book/book](https://github.com/go-programming-tour-book/book) pushed_at:2020-07 《Go 语言编程之旅：一起用 Go 做项目》本书涵盖细分为 5 + 1 板块，分别是命令行、HTTP、RPC、Websocket 应用、进程内缓存以及 Go 语言中的大杀器。
 - [programthink/books](https://github.com/programthink/books) pushed_at:2020-12 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [qqqil/books](https://github.com/qqqil/books) pushed_at:2016-09 我读过的书。嘿嘿，分享给你。
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) pushed_at:2020-12 🤓 Build your own (insert technology here)
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) pushed_at:2021-01 🤓 Build your own (insert technology here)
 - [ngaut/builddatabase](https://github.com/ngaut/builddatabase) pushed_at:2020-10 Build a distributed SQL database from the ground up
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) pushed_at:2021-01 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) pushed_at:2021-01 中文播客：Tech, Design, Science...
 - [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) pushed_at:2018-11  🎓计算机技术与科学自学之旅
 - [gopherchina/conference](https://github.com/gopherchina/conference) pushed_at:2020-11 
 - [rhea1108/CSUG](https://github.com/rhea1108/CSUG) pushed_at:2018-10 China Scala User Group
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) pushed_at:2020-12 A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) pushed_at:2021-01 A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) pushed_at:2019-10 EditorConfig universal issue tracker and wiki
 - [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) pushed_at:2020-06 《Effective Go》中英双语版
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) pushed_at:2020-10 互联网上的免费书籍
@@ -693,7 +693,7 @@
 
 - [wususu/effective-resourses](https://github.com/wususu/effective-resourses) pushed_at:2020-09  :book:学习资源整合
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) pushed_at:2020-10 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [mylxsw/wizard](https://github.com/mylxsw/wizard) pushed_at:2020-12 Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
+- [mylxsw/wizard](https://github.com/mylxsw/wizard) pushed_at:2021-01 Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 
 ## PLpgSQL
 
@@ -718,7 +718,7 @@
 - [Vonng/ddia](https://github.com/Vonng/ddia) pushed_at:2021-01 《Designing Data-Intensive Application》DDIA中文翻译
 - [the5fire/django-practice-book](https://github.com/the5fire/django-practice-book) pushed_at:2019-06 《Django企业开发实战》已出版
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-01 TiDB/TiKV/PD documentation in Chinese.
-- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) pushed_at:2020-12 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) pushed_at:2021-01 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) pushed_at:2020-11 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) pushed_at:2020-10 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
 - [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) pushed_at:2020-12  新闻网页正文通用抽取器 Beta 版.
@@ -731,7 +731,7 @@
 - [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2020-12 A library for transfer learning by reusing parts of TensorFlow models.
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) pushed_at:2020-11 improved colored diff
 - [jayanam/jmesh-tools](https://github.com/jayanam/jmesh-tools) pushed_at:2021-01 Blender 2.8/2.9 mesh and hard surface utilities addon
-- [keras-team/keras](https://github.com/keras-team/keras) pushed_at:2020-12 Deep Learning for humans
+- [keras-team/keras](https://github.com/keras-team/keras) pushed_at:2021-01 Deep Learning for humans
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) pushed_at:2020-11 Deep Reinforcement Learning for Keras.
 - [wau/keras-rl2](https://github.com/wau/keras-rl2) pushed_at:2020-07 Reinforcement learning with tensorflow 2 keras
 - [terryyin/lizard](https://github.com/terryyin/lizard) pushed_at:2020-12 A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
@@ -744,14 +744,14 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) pushed_at:2021-01 Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2020-12 PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) pushed_at:2020-12 An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) pushed_at:2020-12 Python version of the Playwright testing and automation library.
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) pushed_at:2021-01 Python version of the Playwright testing and automation library.
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) pushed_at:2021-01 pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
 - [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) pushed_at:2020-11 📖《Python Parallel Programming Cookbook》中文版
 - [crownpku/Rasa_NLU_Chi](https://github.com/crownpku/Rasa_NLU_Chi) pushed_at:2020-09 Turn Chinese natural language into structured data 中文自然语言理解
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) pushed_at:2020-06 Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
 - [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) pushed_at:2020-12 [CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) pushed_at:2019-11 
-- [google/skywater-pdk](https://github.com/google/skywater-pdk) pushed_at:2020-12 Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+- [google/skywater-pdk](https://github.com/google/skywater-pdk) pushed_at:2021-01 Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [chuyangliu/snake](https://github.com/chuyangliu/snake) pushed_at:2020-12 Artificial intelligence for the Snake game.
 - [maguowei/starred](https://github.com/maguowei/starred) pushed_at:2020-11 creating your own Awesome List by GitHub stars!
 - [pythonstock/stock](https://github.com/pythonstock/stock) pushed_at:2020-12 stock，股票系统。使用python进行开发。
@@ -808,7 +808,7 @@
 - [akka/akka](https://github.com/akka/akka) pushed_at:2021-01 Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [akka/akka-http](https://github.com/akka/akka-http) pushed_at:2021-01 The Streaming-first HTTP server/module of Akka
 - [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph) pushed_at:2021-01 Semantic Code Property Graph: specification, query language, and utilities
-- [gatling/gatling](https://github.com/gatling/gatling) pushed_at:2020-12 Modern Load Testing as Code
+- [gatling/gatling](https://github.com/gatling/gatling) pushed_at:2021-01 Modern Load Testing as Code
 - [twitter-archive/gizzard](https://github.com/twitter-archive/gizzard) pushed_at:2017-03 [Archived] A flexible sharding framework for creating eventually-consistent distributed datastores
 - [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) pushed_at:2020-11 《反应式设计模式》中文版代码清单      勘误地址=>
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) pushed_at:2021-01 Principled Functional Programming in Scala
@@ -826,7 +826,7 @@
 - [captn3m0/google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) pushed_at:2021-01 Google SRE Book Generator (EPUB/MOBI/PDF).
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) pushed_at:2020-12 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) pushed_at:2021-01 Dockerfile for Apache Kafka
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) pushed_at:2020-10 📖 A collection of pure bash alternatives to external processes.
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) pushed_at:2021-01 📖 A collection of pure bash alternatives to external processes.
 - [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) pushed_at:2020-11 Linux Shell Scripts
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-01 TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) pushed_at:2021-01 📚 Collaborative cheatsheets for console commands
@@ -845,11 +845,11 @@
 ## Swift
 
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) pushed_at:2020-12 A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) pushed_at:2020-12 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) pushed_at:2021-01 
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) pushed_at:2020-12 Clipboard extension app for macOS.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) pushed_at:2021-01 Developer Utilities for macOS
 - [gao-sun/eul](https://github.com/gao-sun/eul) pushed_at:2020-12 🖥️ macOS status monitoring app written in SwiftUI.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) pushed_at:2020-12 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) pushed_at:2021-01 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) pushed_at:2020-08 A modern, native macOS markdown editor
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) pushed_at:2020-12 Next Generation of ShadowsocksX
 - [exelban/stats](https://github.com/exelban/stats) pushed_at:2021-01 macOS system monitor in your menu bar
@@ -876,10 +876,10 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) pushed_at:2021-01 Browser Extension to full-text search your browsing history & bookmarks.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) pushed_at:2021-01 Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) pushed_at:2021-01 Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) pushed_at:2020-12 Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) pushed_at:2021-01 Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [cuixiaorui/refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) pushed_at:2020-07 重构与模式
 - [actions/setup-go](https://github.com/actions/setup-go) pushed_at:2020-12 Set up your GitHub Actions workflow with a specific version of Go
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) pushed_at:2020-12 Make images smaller using best-in-class codecs, right in the browser.
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) pushed_at:2021-01 Make images smaller using best-in-class codecs, right in the browser.
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) pushed_at:2021-01 A Magical Web Recorder 🖥 (WIP) 
 - [arvinxx/umi-chrome-extensions-template](https://github.com/arvinxx/umi-chrome-extensions-template) pushed_at:2020-12 基于 Umi 的 Chrome 插件开发模板
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) pushed_at:2020-12 Source code to build vczh-libraries.github.io
