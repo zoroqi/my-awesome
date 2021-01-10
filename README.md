@@ -444,7 +444,7 @@
 - [phadej/github](https://github.com/phadej/github) pushed_at:2021-01 The github API for Haskell
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) pushed_at:2021-01 Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [Idris-zh/Idris-dev](https://github.com/Idris-zh/Idris-dev) pushed_at:2019-04 用作文档目的，翻译方式见 Issue #10
-- [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) pushed_at:2020-12 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+- [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) pushed_at:2021-01 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [ekmett/lens](https://github.com/ekmett/lens) pushed_at:2021-01 Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
 - [srid/neuron](https://github.com/srid/neuron) pushed_at:2021-01 Future-proof and simple-to-use notes system based on Zettelkasten.
 - [jgm/pandoc](https://github.com/jgm/pandoc) pushed_at:2021-01 Universal markup converter
@@ -575,7 +575,7 @@
 
 ## Kotlin
 
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) pushed_at:2020-12 Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) pushed_at:2021-01 Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) pushed_at:2021-01 A shadowsocks client for Android
 - [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) pushed_at:2021-01 📌  The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
 
@@ -651,7 +651,7 @@
 - [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) pushed_at:2021-01 Go语言爱好者周刊，每周日发布
 - [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) pushed_at:2020-07 :us: Google 全球 IP 地址库
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) pushed_at:2020-12 Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) pushed_at:2020-11 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) pushed_at:2021-01 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) pushed_at:2021-01 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) pushed_at:2021-01 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [bagder/http3-explained](https://github.com/bagder/http3-explained) pushed_at:2021-01 A document describing the HTTP/3 and QUIC protocols
@@ -766,7 +766,7 @@
 - [Jesse-csj/TensorFlow_Practice](https://github.com/Jesse-csj/TensorFlow_Practice) pushed_at:2020-10 推荐系统/计算广告相关仓库，个人博客https://jesse-csj.github.io/
 - [princewen/tensorflow_practice](https://github.com/princewen/tensorflow_practice) pushed_at:2019-12 tensorflow实战练习，包括强化学习、推荐系统、nlp等
 - [neuml/txtai](https://github.com/neuml/txtai) pushed_at:2021-01 AI-powered search engine
-- [soimort/you-get](https://github.com/soimort/you-get) pushed_at:2020-12 :arrow_double_down: Dumb downloader that scrapes the web
+- [soimort/you-get](https://github.com/soimort/you-get) pushed_at:2021-01 :arrow_double_down: Dumb downloader that scrapes the web
 - [5A59/Zvm](https://github.com/5A59/Zvm) pushed_at:2019-09 A lightweight jvm written by python
 
 ## Rich Text Format
@@ -819,7 +819,7 @@
 - [twitter-archive/gizzard](https://github.com/twitter-archive/gizzard) pushed_at:2017-03 [Archived] A flexible sharding framework for creating eventually-consistent distributed datastores
 - [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) pushed_at:2020-11 《反应式设计模式》中文版代码清单      勘误地址=>
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) pushed_at:2021-01 Principled Functional Programming in Scala
-- [paypal/squbs](https://github.com/paypal/squbs) pushed_at:2020-06 Akka Streams & Akka HTTP for Large-Scale Production Deployments
+- [paypal/squbs](https://github.com/paypal/squbs) pushed_at:2021-01 Akka Streams & Akka HTTP for Large-Scale Production Deployments
 - [zio/zio](https://github.com/zio/zio) pushed_at:2021-01 ZIO — A type-safe, composable library for async and concurrent programming in Scala
 
 ## Shell
