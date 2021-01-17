@@ -383,12 +383,12 @@
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) pushed_at:2021-01 Plot your repository stars over time.
 - [google/starlark-go](https://github.com/google/starlark-go) pushed_at:2021-01 Starlark in Go: the Starlark configuration language, implemented in Go
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) pushed_at:2021-01 A golang package for converting to snake_case or CamelCase
-- [studygolang/studygolang](https://github.com/studygolang/studygolang) pushed_at:2020-11 Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
+- [studygolang/studygolang](https://github.com/studygolang/studygolang) pushed_at:2021-01 Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) pushed_at:2020-11 Graceful process restarts in Go
 - [changkun/talks](https://github.com/changkun/talks) pushed_at:2020-12 talk slides since 2017
 - [gdamore/tcell](https://github.com/gdamore/tcell) pushed_at:2021-01 Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) pushed_at:2021-01 Golang bindings for the Telegram Bot API
-- [gizak/termui](https://github.com/gizak/termui) pushed_at:2020-12 Golang terminal dashboard
+- [gizak/termui](https://github.com/gizak/termui) pushed_at:2021-01 Golang terminal dashboard
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) pushed_at:2021-01 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [galeone/tfgo](https://github.com/galeone/tfgo) pushed_at:2020-11 Tensorflow + Go, the gopher way
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) pushed_at:2020-07 Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
@@ -451,7 +451,7 @@
 - [Idris-zh/Idris-dev](https://github.com/Idris-zh/Idris-dev) pushed_at:2019-04 用作文档目的，翻译方式见 Issue #10
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) pushed_at:2021-01 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [ekmett/lens](https://github.com/ekmett/lens) pushed_at:2021-01 Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
-- [srid/neuron](https://github.com/srid/neuron) pushed_at:2021-01 Future-proof and simple-to-use notes system based on Zettelkasten.
+- [srid/neuron](https://github.com/srid/neuron) pushed_at:2021-01 Future-proof note-taking and publishing based on Zettelkasten
 - [jgm/pandoc](https://github.com/jgm/pandoc) pushed_at:2021-01 Universal markup converter
 - [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) pushed_at:2020-04 《Real World Haskell》中文翻译项目
 - [audreyt/regex-genex](https://github.com/audreyt/regex-genex) pushed_at:2015-09 Given a list of regexes, generate all possible strings that matches all of them.
@@ -846,7 +846,7 @@
 ## Shell
 
 - [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) pushed_at:2021-01 ApacheCN AI 路线图（知识树）
-- [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) pushed_at:2020-12 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+- [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) pushed_at:2021-01 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) pushed_at:2021-01 A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) pushed_at:2021-01 A list of amazing Newsletters
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) pushed_at:2021-01 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
