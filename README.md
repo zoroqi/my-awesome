@@ -113,7 +113,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) pushed_at:2021-01 The new Windows Terminal and the original Windows console host, all in the same place!
 - [apache/thrift](https://github.com/apache/thrift) pushed_at:2021-01 Apache Thrift
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) pushed_at:2020-11 An unidentifiable mechanism that helps you bypass GFW.
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) pushed_at:2020-12 Offline documentation browser inspired by Dash
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) pushed_at:2021-01 Offline documentation browser inspired by Dash
 
 ## CSS
 
@@ -378,7 +378,7 @@
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) pushed_at:2021-01 Roaring bitmaps in Go (golang)
 - [sevennt/rocketmq](https://github.com/sevennt/rocketmq) pushed_at:2018-06 RocketMQ client for go supportting producer and consumer.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) pushed_at:2020-12 Reactive Extensions for the Go language.
-- [google/safehtml](https://github.com/google/safehtml) pushed_at:2020-11 Safe HTML for Go
+- [google/safehtml](https://github.com/google/safehtml) pushed_at:2021-01 Safe HTML for Go
 - [Shopify/sarama](https://github.com/Shopify/sarama) pushed_at:2021-01 Sarama is a Go library for Apache Kafka 0.8, and up.
 - [google/schedviz](https://github.com/google/schedviz) pushed_at:2020-10 A tool for gathering and visualizing kernel scheduling traces on Linux machines
 - [hashicorp/serf](https://github.com/hashicorp/serf) pushed_at:2020-10 Service orchestration and management tool.
@@ -489,7 +489,7 @@
 - [twogoods/AsyncDao](https://github.com/twogoods/AsyncDao) pushed_at:2020-10 Async SQL mapper framework
 - [apache/beam](https://github.com/apache/beam) pushed_at:2021-01 Apache Beam is a unified programming model for Batch and Streaming
 - [apache/calcite](https://github.com/apache/calcite) pushed_at:2021-01 Apache Calcite
-- [dianping/cat](https://github.com/dianping/cat) pushed_at:2020-12 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+- [dianping/cat](https://github.com/dianping/cat) pushed_at:2021-01 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) pushed_at:2021-01 Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) pushed_at:2021-01 :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [gmethvin/directory-watcher](https://github.com/gmethvin/directory-watcher) pushed_at:2021-01 A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
@@ -563,7 +563,7 @@
 - [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) pushed_at:2020-12 :book: [译] 面向机器学习的特征工程
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) pushed_at:2021-01 freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pushed_at:2021-01 :zap: Dynamically generated stats for your github readmes
-- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) pushed_at:2020-10 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) pushed_at:2021-01 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [x1y9/justmd](https://github.com/x1y9/justmd) pushed_at:2018-06 markdown editor for windows/linux/osx
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) pushed_at:2020-02 learn you a haskell  for great good 中文版
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) pushed_at:2021-01 Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
@@ -605,7 +605,7 @@
 
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) pushed_at:2021-01 Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) pushed_at:2021-01 A shadowsocks client for Android
-- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) pushed_at:2021-01 📌 TransmittableThreadLocal(TTL): The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
+- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) pushed_at:2021-01 📌 TransmittableThreadLocal(TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 
 ## Lua
 
@@ -646,7 +646,7 @@
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) pushed_at:2020-08 A curated list for when naming things is done right.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) pushed_at:2021-01 A list of operating systems and stuff
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) pushed_at:2020-05 中国的Quant相关资源索引
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) pushed_at:2020-12 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) pushed_at:2021-01 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [google/bbr](https://github.com/google/bbr) pushed_at:2021-01 
 - [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) pushed_at:2020-12 A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 - [KeKe-Li/book](https://github.com/KeKe-Li/book) pushed_at:2020-05 :books: All programming languages books 
