@@ -68,7 +68,7 @@
 - [robotn/gohook](https://github.com/robotn/gohook) pushed_at:2021-01 GoHook, Go global keyboard and mouse listener hook
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) pushed_at:2021-02   inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [feiskyer/linux-perf-examples](https://github.com/feiskyer/linux-perf-examples) pushed_at:2020-01 极客时间《Linux 性能优化实战》案例
-- [memcached/memcached](https://github.com/memcached/memcached) pushed_at:2021-01 memcached development tree
+- [memcached/memcached](https://github.com/memcached/memcached) pushed_at:2021-02 memcached development tree
 - [netdata/netdata](https://github.com/netdata/netdata) pushed_at:2021-02 Real-time performance monitoring, done right! https://www.netdata.cloud
 - [redis/redis](https://github.com/redis/redis) pushed_at:2021-02 Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) pushed_at:2020-04 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
@@ -157,13 +157,13 @@
 
 - [nektos/act](https://github.com/nektos/act) pushed_at:2021-02 Run your GitHub Actions locally 🚀
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) pushed_at:2021-02 Network-wide ads & trackers blocking DNS server
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) pushed_at:2021-01 :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) pushed_at:2021-02 :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) pushed_at:2020-09 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [nakabonne/ali](https://github.com/nakabonne/ali) pushed_at:2021-01 Generate HTTP load and plot the results in real-time
 - [iawia002/annie](https://github.com/iawia002/annie) pushed_at:2021-02 👾 Fast, simple and clean video downloader
 - [machinebox/appify](https://github.com/machinebox/appify) pushed_at:2020-05 Create a macOS Application from an executable (like a Go binary)
 - [uber/aresdb](https://github.com/uber/aresdb) pushed_at:2020-09 A GPU-powered real-time analytics storage and query engine. 
-- [argoproj/argo](https://github.com/argoproj/argo) pushed_at:2021-02 Argo Workflows: Get stuff done with Kubernetes.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) pushed_at:2021-02 Argo Workflows: Get stuff done with Kubernetes.
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) pushed_at:2021-01 Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) pushed_at:2021-02 A curated list of awesome Go frameworks, libraries and software
 - [chai2010/awesome-go-zh](https://github.com/chai2010/awesome-go-zh) pushed_at:2020-08 :books: Go资源精选中文版(含中文图书大全)
@@ -216,7 +216,7 @@
 - [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go) pushed_at:2021-02 ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
 - [fvbock/endless](https://github.com/fvbock/endless) pushed_at:2020-10 Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
 - [Monibuca/engine](https://github.com/Monibuca/engine) pushed_at:2021-02 Monibuca 核心引擎，包含流媒体核心转发逻辑，需要配合功能插件一起组合运行
-- [facebook/ent](https://github.com/facebook/ent) pushed_at:2021-02 An entity framework for Go
+- [ent/ent](https://github.com/ent/ent) pushed_at:2021-02 An entity framework for Go
 - [pkg/errors](https://github.com/pkg/errors) pushed_at:2020-12 Simple error handling primitives
 - [evanw/esbuild](https://github.com/evanw/esbuild) pushed_at:2021-02 An extremely fast JavaScript bundler and minifier
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) pushed_at:2021-02 Distributed reliable key-value store for the most critical data of a distributed system
@@ -511,7 +511,7 @@
 - [apache/calcite](https://github.com/apache/calcite) pushed_at:2021-02 Apache Calcite
 - [dianping/cat](https://github.com/dianping/cat) pushed_at:2021-01 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) pushed_at:2021-02 This is the public repository for the CFR Java decompiler
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) pushed_at:2021-01 Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) pushed_at:2021-02 Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) pushed_at:2021-02 :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [gmethvin/directory-watcher](https://github.com/gmethvin/directory-watcher) pushed_at:2021-01 A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-01 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
@@ -648,7 +648,7 @@
 
 ## Objective-C
 
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) pushed_at:2021-01 Staggeringly powerful macOS desktop automation with Lua
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) pushed_at:2021-02 Staggeringly powerful macOS desktop automation with Lua
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) pushed_at:2021-02 LuLu is the free macOS firewall
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) pushed_at:2021-02 Vienna is a free and open-source RSS/Atom newsreader for macOS.
 
@@ -661,7 +661,7 @@
 - [github/archive-program](https://github.com/github/archive-program) pushed_at:2021-02 The GitHub Archive Program & Arctic Code Vault
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) pushed_at:2021-02 😎 Awesome lists about all kinds of interesting topics
 - [rollup/awesome](https://github.com/rollup/awesome) pushed_at:2021-02 ⚡️ Delightful Rollup Plugins, Packages, and Resources
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) pushed_at:2021-01 :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) pushed_at:2021-02 :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) pushed_at:2021-02 A curated list of awesome technologies related to Anime, Comic and Games
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) pushed_at:2020-12 🖥 📊 🕹 🛠 A curated list of command line apps
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-01 A list of learning materials to understand databases internals
@@ -675,7 +675,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) pushed_at:2020-12 Use your macOS terminal shell to do awesome things.
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) pushed_at:2020-08 A curated list for when naming things is done right.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) pushed_at:2021-02 A list of operating systems and stuff
-- [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) pushed_at:2021-01 📝 A curated list of awesome Prometheus resources, projects and tools.
+- [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) pushed_at:2021-02 A curated list of awesome Prometheus resources, projects and tools.
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) pushed_at:2020-05 中国的Quant相关资源索引
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) pushed_at:2021-01 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [google/bbr](https://github.com/google/bbr) pushed_at:2021-02 
@@ -747,7 +747,7 @@
 - [1046102779/prometheus](https://github.com/1046102779/prometheus) pushed_at:2020-03 Prometheus官网的非官方中文手册，旨在为大家提供一个比较容易入手的文档。翻译得不好，请大家多多包涵，并帮忙修订校正
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) pushed_at:2021-01 Prometheus操作指南
 - [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) pushed_at:2018-09 Python数据科学速查表
-- [JetBrains/Qodana](https://github.com/JetBrains/Qodana) pushed_at:2021-01 
+- [JetBrains/Qodana](https://github.com/JetBrains/Qodana) pushed_at:2021-02 Source repository of Qodana Help
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) pushed_at:2021-02 Raft一致性算法论文的中文翻译
 - [reactivemanifesto/reactivemanifesto](https://github.com/reactivemanifesto/reactivemanifesto) pushed_at:2020-12 The Reactive Manifesto
 - [18comic/releasr](https://github.com/18comic/releasr) pushed_at:2021-02 禁漫網址發布頁回家的路怕走失記得收藏哦
@@ -836,7 +836,7 @@
 - [nondanee/ncmdump](https://github.com/nondanee/ncmdump) pushed_at:2020-06 python版本网易云音乐ncm文件格式转换
 - [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) pushed_at:2021-02 Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) pushed_at:2021-02 Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-02 PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-02 PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) pushed_at:2020-12 An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) pushed_at:2021-02 Python version of the Playwright testing and automation library.
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) pushed_at:2021-02 pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
@@ -848,7 +848,7 @@
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) pushed_at:2019-11 
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) pushed_at:2021-01 Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [chuyangliu/snake](https://github.com/chuyangliu/snake) pushed_at:2020-12 Artificial intelligence for the Snake game.
-- [maguowei/starred](https://github.com/maguowei/starred) pushed_at:2020-11 creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) pushed_at:2021-02 creating your own Awesome List by GitHub stars!
 - [pythonstock/stock](https://github.com/pythonstock/stock) pushed_at:2021-01 stock，股票系统。使用python进行开发。
 - [seclab-ucr/SymTCP](https://github.com/seclab-ucr/SymTCP) pushed_at:2020-02 Automatic Discrepancy Discovery for DPI Elusion
 - [princewen/tensorflow_practice](https://github.com/princewen/tensorflow_practice) pushed_at:2019-12 tensorflow实战练习，包括强化学习、推荐系统、nlp等
@@ -893,7 +893,7 @@
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) pushed_at:2021-02 Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [denisidoro/navi](https://github.com/denisidoro/navi) pushed_at:2021-01 An interactive cheatsheet tool for the command-line and application launchers
 - [cloudflare/odoh-rs](https://github.com/cloudflare/odoh-rs) pushed_at:2021-01 Oblivious DoH library in Rust
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) pushed_at:2021-01 
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) pushed_at:2021-02 
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) pushed_at:2021-02 A web framework for Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) pushed_at:2021-02 Empowering everyone to build reliable and efficient software.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) pushed_at:2021-02 A bunch of lints to catch common mistakes and improve your Rust code
@@ -939,7 +939,7 @@
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-02 TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) pushed_at:2021-02 📚 Collaborative cheatsheets for console commands
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) pushed_at:2020-12 ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [Fmstrat/winapps](https://github.com/Fmstrat/winapps) pushed_at:2020-12 Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [Fmstrat/winapps](https://github.com/Fmstrat/winapps) pushed_at:2021-02 Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [rupa/z](https://github.com/rupa/z) pushed_at:2020-09 z - jump around
 
 ## Smarty
