@@ -122,7 +122,7 @@
 ## CSS
 
 - [qinshuang1998/GithubPainter](https://github.com/qinshuang1998/GithubPainter) pushed_at:2020-05 The art of github contributions heatmap.
-- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-01 ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-02 ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) pushed_at:2021-02 the CS missing semester Chinese version
 - [Kivy-CN/ml-for-humans-zh](https://github.com/Kivy-CN/ml-for-humans-zh) pushed_at:2017-10 :book: [译] 写给人类的机器学习
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) pushed_at:2021-02 Your web application for managing personal data.
@@ -170,7 +170,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) pushed_at:2021-02 Fast key-value DB in Go.
 - [rpcxio/basalt](https://github.com/rpcxio/basalt) pushed_at:2020-08 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在,日活统计，签到，打点等等
 - [golang/benchmarks](https://github.com/golang/benchmarks) pushed_at:2019-11 Benchmarks for the perf dashboard
-- [allegro/bigcache](https://github.com/allegro/bigcache) pushed_at:2021-01 Efficient cache for gigabytes of data written in Go.
+- [allegro/bigcache](https://github.com/allegro/bigcache) pushed_at:2021-02 Efficient cache for gigabytes of data written in Go.
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) pushed_at:2020-08 Image processing algorithms in pure Go
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) pushed_at:2021-02 A modern text indexing library for go
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) pushed_at:2021-02 An ACME-based certificate authority, written in Go. 
@@ -625,7 +625,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-02 Google Research
 - [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) pushed_at:2021-02 Learn how to responsibly deliver value with applied ML.
 - [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) pushed_at:2019-07 台湾大学李宏毅老师机器学习
-- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2020-12 PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2021-02 PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) pushed_at:2021-01 Fast, general, and tested differentiable structured prediction in PyTorch
 - [oldratlee/statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) pushed_at:2019-11 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) pushed_at:2021-01 One has no future if one couldn't teach themself.
@@ -664,7 +664,7 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) pushed_at:2021-02 :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) pushed_at:2021-02 A curated list of awesome technologies related to Anime, Comic and Games
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) pushed_at:2020-12 🖥 📊 🕹 🛠 A curated list of command line apps
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-01 A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-02 A list of learning materials to understand databases internals
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) pushed_at:2021-02 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) pushed_at:2021-02 A curated list of dotfiles resources.
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) pushed_at:2020-05 A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
@@ -785,11 +785,11 @@
 
 ## PowerShell
 
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) pushed_at:2021-01 A command-line installer for Windows.
+- [lukesampson/scoop](https://github.com/lukesampson/scoop) pushed_at:2021-02 A command-line installer for Windows.
 
 ## Python
 
-- [jindaxiang/akshare](https://github.com/jindaxiang/akshare) pushed_at:2021-02 AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [jindaxiang/akshare](https://github.com/jindaxiang/akshare) pushed_at:2021-02 AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [archivy/archivy](https://github.com/archivy/archivy) pushed_at:2021-02 Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [kaxap/arl](https://github.com/kaxap/arl) pushed_at:2021-02 lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) pushed_at:2021-02 Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
@@ -820,7 +820,7 @@
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) pushed_at:2021-01 HelloGitHub.com 网站源码
 - [httpie/httpie](https://github.com/httpie/httpie) pushed_at:2021-02 As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [reorx/httpstat](https://github.com/reorx/httpstat) pushed_at:2020-12 curl statistics made simple
-- [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2021-01 A library for transfer learning by reusing parts of TensorFlow models.
+- [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2021-02 A library for transfer learning by reusing parts of TensorFlow models.
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) pushed_at:2020-11 improved colored diff
 - [jayanam/jmesh-tools](https://github.com/jayanam/jmesh-tools) pushed_at:2021-02 Blender 2.8/2.9 mesh and hard surface utilities addon
 - [keras-team/keras](https://github.com/keras-team/keras) pushed_at:2021-02 Deep Learning for humans
@@ -933,7 +933,7 @@
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) pushed_at:2021-02 ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [captn3m0/google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) pushed_at:2021-01 Google SRE Book Generator (EPUB/MOBI/PDF).
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) pushed_at:2021-02 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) pushed_at:2021-01 Dockerfile for Apache Kafka
+- [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) pushed_at:2021-02 Dockerfile for Apache Kafka
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) pushed_at:2021-01 📖 A collection of pure bash alternatives to external processes.
 - [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) pushed_at:2020-11 Linux Shell Scripts
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-02 TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
