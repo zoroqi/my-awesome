@@ -290,7 +290,7 @@
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) pushed_at:2021-02 Go source code analysis(zh-cn)
 - [yuin/goldmark](https://github.com/yuin/goldmark) pushed_at:2021-02 :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [go101/golds](https://github.com/go101/golds) pushed_at:2021-02 An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) pushed_at:2021-01 LevelDB key/value database in Go.
+- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) pushed_at:2021-02 LevelDB key/value database in Go.
 - [mattn/golisp](https://github.com/mattn/golisp) pushed_at:2020-11 Lisp Interpreter
 - [cch123/gomod-conflict-detect](https://github.com/cch123/gomod-conflict-detect) pushed_at:2020-04 detect dependencies which may conflict
 - [gonum/gonum](https://github.com/gonum/gonum) pushed_at:2021-02 Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -490,7 +490,7 @@
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) pushed_at:2021-02 Haskell source code suggestions
 - [Idris-zh/Idris-dev](https://github.com/Idris-zh/Idris-dev) pushed_at:2019-04 用作文档目的，翻译方式见 Issue #10
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) pushed_at:2021-02 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-- [ekmett/lens](https://github.com/ekmett/lens) pushed_at:2021-01 Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
+- [ekmett/lens](https://github.com/ekmett/lens) pushed_at:2021-02 Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
 - [JustusAdam/mustache](https://github.com/JustusAdam/mustache) pushed_at:2021-01 Haskell implementation of mustache templates
 - [srid/neuron](https://github.com/srid/neuron) pushed_at:2021-02 Future-proof note-taking and publishing based on Zettelkasten
 - [jgm/pandoc](https://github.com/jgm/pandoc) pushed_at:2021-02 Universal markup converter
@@ -577,7 +577,7 @@
 - [DarLiner/vjtools](https://github.com/DarLiner/vjtools) pushed_at:2019-04 唯品会Java开发手册，结合唯品会的内部经验，参考《阿里巴巴Java开发手册》《Clean Code》、《Effective Java》等重磅资料进行了大幅定制，包含核心基础类库VJKit ，问题排查工具VJMap 和 VJTop 三部分。
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) pushed_at:2021-01 The vip.com's java coding standard, libraries and tools
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) pushed_at:2021-02 Zettelkasten-Developer-Builds
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) pushed_at:2021-01 Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) pushed_at:2021-02 Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [ZXZxin/ZXBlog](https://github.com/ZXZxin/ZXBlog) pushed_at:2020-03 记录各种学习笔记(算法、Java、数据库、并发......)
 
 ## JavaScript
@@ -629,7 +629,7 @@
 ## Jupyter Notebook
 
 - [google/automl](https://github.com/google/automl) pushed_at:2021-02 Google Brain AutoML
-- [zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books) pushed_at:2021-01 Some awesome AI related books and pdfs for learning and downloading
+- [zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books) pushed_at:2021-02 Some awesome AI related books and pdfs for learning and downloading
 - [oldratlee/data-science-practice](https://github.com/oldratlee/data-science-practice) pushed_at:2020-01 数据科学实践 | data science practice
 - [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) pushed_at:2021-01 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 - [fastai/fastai](https://github.com/fastai/fastai) pushed_at:2021-02 The fastai deep learning library
@@ -757,7 +757,7 @@
 - [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) pushed_at:2019-07 :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式，虚拟化，机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege 
 - [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-02 
 - [1046102779/prometheus](https://github.com/1046102779/prometheus) pushed_at:2020-03 Prometheus官网的非官方中文手册，旨在为大家提供一个比较容易入手的文档。翻译得不好，请大家多多包涵，并帮忙修订校正
-- [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) pushed_at:2021-01 Prometheus操作指南
+- [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) pushed_at:2021-02 Prometheus操作指南
 - [infinityworks/prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) pushed_at:2020-10 Simple place for people to provide examples of queries they've found useful.
 - [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) pushed_at:2018-09 Python数据科学速查表
 - [JetBrains/Qodana](https://github.com/JetBrains/Qodana) pushed_at:2021-02 Source repository of Qodana Help
@@ -827,7 +827,7 @@
 - [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) pushed_at:2020-11 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [beancount/fava](https://github.com/beancount/fava) pushed_at:2021-02 Fava - web interface for Beancount
 - [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) pushed_at:2021-01 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
-- [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) pushed_at:2020-12  新闻网页正文通用抽取器 Beta 版.
+- [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) pushed_at:2021-02  新闻网页正文通用抽取器 Beta 版.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) pushed_at:2021-01 A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-01 Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2021-02 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
