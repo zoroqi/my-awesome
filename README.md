@@ -65,7 +65,7 @@
 - [google/boringssl](https://github.com/google/boringssl) pushed_at:2021-03 star:1.0k fork:0.4k Mirror of BoringSSL
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) pushed_at:2020-12 star:4.8k fork:0.3k A Dead Simple VPN.
 - [git/git](https://github.com/git/git) pushed_at:2021-03 star:37.2k fork:21.1k Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) pushed_at:2021-02 star:4.7k fork:0.8k sqlite3 driver for go using database/sql
+- [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) pushed_at:2021-03 star:4.7k fork:0.8k sqlite3 driver for go using database/sql
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) pushed_at:2021-03 star:12.9k fork:0.9k GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [robotn/gohook](https://github.com/robotn/gohook) pushed_at:2021-02 star:0.1k fork:0.0k GoHook, Go global keyboard and mouse listener hook
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) pushed_at:2021-03 star:2.2k fork:0.3k   inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -99,7 +99,7 @@
 - [CppCon/CppCon2020](https://github.com/CppCon/CppCon2020) pushed_at:2020-10 star:1.0k fork:0.1k Slides and other materials from CppCon 2020
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) pushed_at:2021-03 star:4.6k fork:1.2k very currency
 - [cwida/duckdb](https://github.com/cwida/duckdb) pushed_at:2021-03 star:2.7k fork:0.2k DuckDB is an in-process SQL OLAP Database Management System
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) pushed_at:2021-03 star:10.9k fork:0.7k Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) pushed_at:2021-03 star:11.2k fork:0.7k Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [google/flatbuffers](https://github.com/google/flatbuffers) pushed_at:2021-03 star:15.9k fork:2.5k FlatBuffers: Memory Efficient Serialization Library
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) pushed_at:2021-03 star:2.3k fork:0.2k Flax Engine – multi-platform 3D game engine
 - [yangjiechina/GB28181_Stress_Tools](https://github.com/yangjiechina/GB28181_Stress_Tools) pushed_at:2021-01 star:0.0k fork:0.0k GB28181压力测试工具
@@ -110,7 +110,7 @@
 - [ledger/ledger](https://github.com/ledger/ledger) pushed_at:2021-02 star:3.8k fork:0.4k Double-entry accounting system with a command-line reporting interface
 - [google/leveldb](https://github.com/google/leveldb) pushed_at:2021-03 star:23.2k fork:5.4k LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [alibaba/MNN](https://github.com/alibaba/MNN) pushed_at:2021-03 star:5.5k fork:1.1k MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) pushed_at:2021-02 star:12.6k fork:1.5k 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) pushed_at:2021-03 star:12.6k fork:1.5k 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) pushed_at:2021-03 star:5.8k fork:0.6k   A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) pushed_at:2021-03 star:46.7k fork:12.5k Protocol Buffers - Google's data interchange format
 - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) pushed_at:2021-02 star:0.7k fork:0.1k Free news feeds reader
@@ -119,9 +119,9 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) pushed_at:2021-03 star:10.9k fork:0.7k Sourcetrail - free and open-source interactive source explorer
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) pushed_at:2021-03 star:0.2k fork:0.0k Library to export Sourcetrail compatible database files for writing custom indexers
 - [spring/spring](https://github.com/spring/spring) pushed_at:2021-03 star:2.1k fork:0.7k A powerful free cross-platform RTS game engine
-- [Tencent/Tendis](https://github.com/Tencent/Tendis) pushed_at:2021-03 star:1.7k fork:0.2k Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
+- [Tencent/Tendis](https://github.com/Tencent/Tendis) pushed_at:2021-03 star:1.8k fork:0.2k Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-03 star:1.1k fork:0.1k A RocksDB compatible KV storage engine with better performance
-- [microsoft/terminal](https://github.com/microsoft/terminal) pushed_at:2021-03 star:72.5k fork:6.5k The new Windows Terminal and the original Windows console host, all in the same place!
+- [microsoft/terminal](https://github.com/microsoft/terminal) pushed_at:2021-03 star:72.6k fork:6.5k The new Windows Terminal and the original Windows console host, all in the same place!
 - [apache/thrift](https://github.com/apache/thrift) pushed_at:2021-03 star:8.2k fork:3.6k Apache Thrift
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) pushed_at:2020-11 star:14.2k fork:2.6k An unidentifiable mechanism that helps you bypass GFW.
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) pushed_at:2021-01 star:9.9k fork:2.9k :heart:中国科学技术大学课程资源
@@ -140,7 +140,7 @@
 
 ## Clojure
 
-- [logseq/logseq](https://github.com/logseq/logseq) pushed_at:2021-03 star:3.0k fork:0.2k A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) pushed_at:2021-03 star:3.1k fork:0.2k A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## CodeQL
 
@@ -173,7 +173,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) pushed_at:2021-03 star:7.0k fork:0.7k Network-wide ads & trackers blocking DNS server
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) pushed_at:2021-02 star:14.6k fork:2.5k :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) pushed_at:2021-03 star:11.2k fork:2.0k 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [nakabonne/ali](https://github.com/nakabonne/ali) pushed_at:2021-02 star:2.2k fork:0.1k Generate HTTP load and plot the results in real-time
+- [nakabonne/ali](https://github.com/nakabonne/ali) pushed_at:2021-02 star:2.3k fork:0.1k Generate HTTP load and plot the results in real-time
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) pushed_at:2021-03 star:0.6k fork:0.2k Alibaba Cloud CLI
 - [iawia002/annie](https://github.com/iawia002/annie) pushed_at:2021-02 star:14.3k fork:1.7k 👾 Fast, simple and clean video downloader
 - [machinebox/appify](https://github.com/machinebox/appify) pushed_at:2020-05 star:0.4k fork:0.0k Create a macOS Application from an executable (like a Go binary)
@@ -182,7 +182,7 @@
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) pushed_at:2021-01 star:1.6k fork:0.1k Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) pushed_at:2021-03 star:62.7k fork:8.2k A curated list of awesome Go frameworks, libraries and software
 - [chai2010/awesome-go-zh](https://github.com/chai2010/awesome-go-zh) pushed_at:2020-08 star:0.9k fork:0.2k :books: Go资源精选中文版(含中文图书大全)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) pushed_at:2021-03 star:8.9k fork:0.8k Fast key-value DB in Go.
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) pushed_at:2021-03 star:9.0k fork:0.8k Fast key-value DB in Go.
 - [rpcxio/basalt](https://github.com/rpcxio/basalt) pushed_at:2020-08 star:0.1k fork:0.0k 高性能的分布式的专门空间优化的 Bitmap 服务, 高效检查数据是否存在,日活统计，签到，打点等等
 - [square/beancounter](https://github.com/square/beancounter) pushed_at:2021-01 star:0.1k fork:0.0k Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.
 - [golang/benchmarks](https://github.com/golang/benchmarks) pushed_at:2019-11 star:0.1k fork:0.0k Benchmarks for the perf dashboard
@@ -251,11 +251,11 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) pushed_at:2021-03 star:4.3k fork:0.3k 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [coocood/freecache](https://github.com/coocood/freecache) pushed_at:2020-12 star:3.2k fork:0.3k A cache library for Go with zero GC overhead.
 - [fatedier/frp](https://github.com/fatedier/frp) pushed_at:2021-03 star:43.8k fork:8.2k A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) pushed_at:2021-03 star:12.5k fork:0.7k Cross platform GUI in Go inspired by Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) pushed_at:2021-03 star:12.5k fork:0.6k Cross platform GUI in Go inspired by Material Design
 - [junegunn/fzf](https://github.com/junegunn/fzf) pushed_at:2021-03 star:35.4k fork:1.5k :cherry_blossom: A command-line fuzzy finder
 - [alexflint/gallium](https://github.com/alexflint/gallium) pushed_at:2018-10 star:3.7k fork:0.1k Build desktop applications in Go and HTML.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) pushed_at:2021-01 star:1.2k fork:0.1k Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
-- [github/gh-ost](https://github.com/github/gh-ost) pushed_at:2021-03 star:8.6k fork:0.9k GitHub's Online Schema Migrations for MySQL
+- [github/gh-ost](https://github.com/github/gh-ost) pushed_at:2021-03 star:8.7k fork:0.9k GitHub's Online Schema Migrations for MySQL
 - [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) pushed_at:2021-03 star:0.7k fork:0.0k GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 - [goki/gi](https://github.com/goki/gi) pushed_at:2021-03 star:0.9k fork:0.0k Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) pushed_at:2021-02 star:46.4k fork:5.3k Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -263,7 +263,7 @@
 - [google/git-appraise](https://github.com/google/git-appraise) pushed_at:2020-07 star:4.2k fork:0.1k Distributed code review system for Git repos
 - [alaingilbert/git2graph](https://github.com/alaingilbert/git2graph) pushed_at:2020-12 star:0.1k fork:0.0k Generate a git graph structure from linear git history
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) pushed_at:2021-03 star:23.9k fork:2.9k Git with a cup of tea, painless self-hosted git service
-- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) pushed_at:2021-01 star:0.8k fork:0.1k Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
+- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) pushed_at:2021-03 star:0.8k fork:0.1k Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) pushed_at:2021-03 star:7.3k fork:0.6k Scan git repos (or files) for secrets using regex and entropy 🔑
 - [tidwall/gjson](https://github.com/tidwall/gjson) pushed_at:2021-03 star:7.9k fork:0.5k Get JSON values quickly - JSON parser for Go
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) pushed_at:2021-03 star:3.8k fork:0.5k 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
@@ -347,7 +347,7 @@
 - [inlets/inlets](https://github.com/inlets/inlets) pushed_at:2021-03 star:8.0k fork:0.5k Cloud Native Tunnel
 - [istio/istio](https://github.com/istio/istio) pushed_at:2021-03 star:26.4k fork:5.2k Connect, secure, control, and observe services.
 - [cube2222/jql](https://github.com/cube2222/jql) pushed_at:2020-02 star:0.8k fork:0.0k Easy JSON Query Processor with a Lispy syntax in Go
-- [douyu/jupiter](https://github.com/douyu/jupiter) pushed_at:2021-03 star:2.7k fork:0.4k Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+- [douyu/jupiter](https://github.com/douyu/jupiter) pushed_at:2021-03 star:2.8k fork:0.4k Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) pushed_at:2021-02 star:9.2k fork:0.9k Golang implementation of JSON Web Tokens (JWT)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) pushed_at:2021-01 star:12.4k fork:2.4k A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 - [go-kit/kit](https://github.com/go-kit/kit) pushed_at:2021-03 star:19.6k fork:2.0k A standard library for microservices.
@@ -358,7 +358,7 @@
 - [PrasadG193/kyaml2go](https://github.com/PrasadG193/kyaml2go) pushed_at:2021-01 star:0.2k fork:0.0k K8s Go client code generator from Kubernetes resource yamls
 - [q191201771/lal](https://github.com/q191201771/lal) pushed_at:2021-03 star:0.5k fork:0.1k 🔥 Golang live stream lib/client/server. support RTMP/RTSP/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify, GOP cache. 官方文档见 https://pengrl.com/lal
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) pushed_at:2021-03 star:9.2k fork:1.1k 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) pushed_at:2021-03 star:15.5k fork:2.7k ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) pushed_at:2021-03 star:15.6k fork:2.7k ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [Arkweid/lefthook](https://github.com/Arkweid/lefthook) pushed_at:2020-10 star:1.4k fork:0.1k Fast and powerful Git hooks manager for any type of projects.
 - [golang/leveldb](https://github.com/golang/leveldb) pushed_at:2017-01 star:1.0k fork:0.1k The LevelDB key-value database in the Go programming language.
 - [lileio/lile](https://github.com/lileio/lile) pushed_at:2020-10 star:1.3k fork:0.1k Easily generate gRPC services in Go ⚡️
@@ -406,7 +406,7 @@
 - [gonum/plot](https://github.com/gonum/plot) pushed_at:2021-03 star:1.8k fork:0.2k A repository for plotting and visualizing data
 - [chenjiandongx/pls](https://github.com/chenjiandongx/pls) pushed_at:2020-10 star:0.0k fork:0.0k 📝 Impressive Linux commands cheat sheet cli (Golang).
 - [google/pprof](https://github.com/google/pprof) pushed_at:2021-02 star:4.2k fork:0.4k pprof is a tool for visualization and analysis of profiling data
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) pushed_at:2021-03 star:35.7k fork:5.7k The Prometheus monitoring system and time series database.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) pushed_at:2021-03 star:35.8k fork:5.7k The Prometheus monitoring system and time series database.
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2021-02 star:2.4k fork:0.3k Go Project Design Documents
 - [jdkato/prose](https://github.com/jdkato/prose) pushed_at:2021-01 star:2.7k fork:0.1k :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [gogo/protobuf](https://github.com/gogo/protobuf) pushed_at:2021-02 star:4.4k fork:0.6k Protocol Buffers for Go with Gadgets
@@ -467,7 +467,7 @@
 - [golang/tools](https://github.com/golang/tools) pushed_at:2021-03 star:5.1k fork:1.7k [mirror] Go Tools
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) pushed_at:2021-03 star:5.2k fork:0.3k :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [traefik/traefik](https://github.com/traefik/traefik) pushed_at:2021-03 star:33.0k fork:3.6k The Cloud Native Application Proxy
-- [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) pushed_at:2021-03 star:3.0k fork:0.8k Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) pushed_at:2021-03 star:3.1k fork:0.8k Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) pushed_at:2020-02 star:2.0k fork:0.1k A UI library for terminal applications.
 - [tus/tusd](https://github.com/tus/tusd) pushed_at:2021-03 star:1.9k fork:0.3k Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [gosuri/uilive](https://github.com/gosuri/uilive) pushed_at:2020-10 star:1.3k fork:0.1k uilive is a go library for updating terminal output in realtime
@@ -567,10 +567,10 @@
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) pushed_at:2021-03 star:0.8k fork:0.1k This is the public repository for the CFR Java decompiler
 - [Athou/commafeed](https://github.com/Athou/commafeed) pushed_at:2021-03 star:1.8k fork:0.3k Google Reader inspired self-hosted RSS reader.
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) pushed_at:2021-03 star:1.9k fork:0.2k Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) pushed_at:2021-02 star:123.3k fork:40.0k :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) pushed_at:2021-02 star:123.4k fork:40.0k :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [gmethvin/directory-watcher](https://github.com/gmethvin/directory-watcher) pushed_at:2021-03 star:0.1k fork:0.0k A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [Nepxion/Discovery](https://github.com/Nepxion/Discovery) pushed_at:2021-03 star:4.1k fork:1.1k ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, weight, limitation, circuit breaker, degrade, isolation, tracing, dye, failover 蓝绿、灰度、权重、限流、熔断、降级、隔离、追踪、流量染色、故障转移
-- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-03 star:23.5k fork:7.6k 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-03 star:23.5k fork:7.7k 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [Netflix/eureka](https://github.com/Netflix/eureka) pushed_at:2021-03 star:10.3k fork:3.1k AWS Service registry for resilient mid-tier load balancing and failover.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) pushed_at:2021-03 star:23.1k fork:6.2k A fast JSON parser/generator for Java.  
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) pushed_at:2021-03 star:6.8k fork:1.4k Feign makes writing java http clients easier
@@ -596,7 +596,7 @@
 - [jhy/jsoup](https://github.com/jhy/jsoup) pushed_at:2021-03 star:8.6k fork:1.9k jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) pushed_at:2021-01 star:1.4k fork:0.6k Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) pushed_at:2021-03 star:10.9k fork:1.9k :100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
-- [apache/kafka](https://github.com/apache/kafka) pushed_at:2021-03 star:18.2k fork:9.7k Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) pushed_at:2021-03 star:18.3k fork:9.7k Mirror of Apache Kafka
 - [optimaize/language-detector](https://github.com/optimaize/language-detector) pushed_at:2019-04 star:0.5k fork:0.2k Language Detection Library for Java
 - [phodal/migration](https://github.com/phodal/migration) pushed_at:2020-12 star:2.2k fork:0.3k 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [alibaba/nacos](https://github.com/alibaba/nacos) pushed_at:2021-03 star:16.7k fork:6.4k an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -618,19 +618,19 @@
 - [google/thread-weaver](https://github.com/google/thread-weaver) pushed_at:2017-08 star:0.3k fork:0.1k A Java framework for testing multithreaded code.
 - [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) pushed_at:2021-03 star:3.7k fork:1.1k 📌 TransmittableThreadLocal(TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) pushed_at:2021-03 star:11.9k fork:1.8k Vert.x is a tool-kit for building reactive applications on the JVM
-- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) pushed_at:2021-02 star:3.0k fork:2.0k Vert.x examples
+- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) pushed_at:2021-02 star:3.1k fork:2.0k Vert.x examples
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) pushed_at:2020-12 star:1.6k fork:0.6k A java virus broadcast simulation
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) pushed_at:2021-01 star:7.0k fork:1.4k The vip.com's java coding standard, libraries and tools
 - [DarLiner/vjtools](https://github.com/DarLiner/vjtools) pushed_at:2019-04 star:0.4k fork:0.1k 唯品会Java开发手册，结合唯品会的内部经验，参考《阿里巴巴Java开发手册》《Clean Code》、《Effective Java》等重磅资料进行了大幅定制，包含核心基础类库VJKit ，问题排查工具VJMap 和 VJTop 三部分。
 - [apache/zeppelin](https://github.com/apache/zeppelin) pushed_at:2021-03 star:5.2k fork:2.4k Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) pushed_at:2021-03 star:0.3k fork:0.0k Zettelkasten-Developer-Builds
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) pushed_at:2021-03 star:1.3k fork:0.2k Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) pushed_at:2021-03 star:1.4k fork:0.2k Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [ZXZxin/ZXBlog](https://github.com/ZXZxin/ZXBlog) pushed_at:2020-03 star:4.6k fork:1.3k 记录各种学习笔记(算法、Java、数据库、并发......)
 
 ## JavaScript
 
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) pushed_at:2021-03 star:33.4k fork:5.5k :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) pushed_at:2021-03 star:16.9k fork:2.9k 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) pushed_at:2021-03 star:17.2k fork:2.9k 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) pushed_at:2021-03 star:41.2k fork:4.6k  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [thzt/awesome-modules](https://github.com/thzt/awesome-modules) pushed_at:2020-04 star:0.0k fork:0.0k Modules in various programming languages.
 - [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) pushed_at:2021-03 star:0.1k fork:0.0k 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
@@ -650,7 +650,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) pushed_at:2021-03 star:321.6k fork:25.5k freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pushed_at:2021-03 star:20.4k fork:4.1k :zap: Dynamically generated stats for your github readmes
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) pushed_at:2021-02 star:15.3k fork:3.9k 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) pushed_at:2021-03 star:29.2k fork:1.2k Collection of 5000+ publicly available IPTV channels from all over the world
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) pushed_at:2021-03 star:29.3k fork:1.2k Collection of 5000+ publicly available IPTV channels from all over the world
 - [x1y9/justmd](https://github.com/x1y9/justmd) pushed_at:2018-06 star:0.0k fork:0.0k markdown editor for windows/linux/osx
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) pushed_at:2021-03 star:0.5k fork:0.1k 📚  A modern ebook manager and reader for epub, pdf, mobi, azw3 and txt, supporting Windows, macOS, Linux and Web. (跨平台的电子书阅读器，支持 epub, pdf, mobi, azw3 和 txt 格式)
 - [flaneur2020/lyah](https://github.com/flaneur2020/lyah) pushed_at:2020-02 star:0.1k fork:0.0k learn you a haskell  for great good 中文版
@@ -660,7 +660,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) pushed_at:2021-03 star:1.5k fork:1.3k Connect APIs, remarkably fast.  Free for developers.
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) pushed_at:2021-03 star:1.0k fork:0.3k 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) pushed_at:2021-02 star:0.4k fork:0.0k 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-- [wei/pull](https://github.com/wei/pull) pushed_at:2021-03 star:2.4k fork:0.4k 🤖 Keep your forks up-to-date via automated PRs
+- [wei/pull](https://github.com/wei/pull) pushed_at:2021-03 star:2.5k fork:0.4k 🤖 Keep your forks up-to-date via automated PRs
 - [jining1/reading](https://github.com/jining1/reading) pushed_at:2019-07 star:0.0k fork:0.0k OpenmindClub IA005 project：以认知的角度看阅读
 - [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) pushed_at:2021-03 star:0.2k fork:0.0k RustMagazine 2021 期刊
 - [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) pushed_at:2021-03 star:4.0k fork:1.6k A shadowsocks manager tool for multi user and traffic control.
@@ -677,7 +677,7 @@
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) pushed_at:2021-03 star:4.4k fork:0.2k 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [GetStream/Winds](https://github.com/GetStream/Winds) pushed_at:2020-12 star:8.0k fork:0.5k A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) pushed_at:2021-03 star:2.3k fork:0.2k Wireflow - user flow chart real-time collaborative tool
-- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) pushed_at:2021-03 star:4.7k fork:0.3k A Markdown Editor for the 21st century.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) pushed_at:2021-03 star:4.8k fork:0.3k A Markdown Editor for the 21st century.
 
 ## Jupyter Notebook
 
@@ -690,7 +690,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-03 star:16.4k fork:3.5k Google Research
 - [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) pushed_at:2021-03 star:25.5k fork:4.6k Learn how to responsibly deliver value with applied ML.
 - [dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning) pushed_at:2019-07 star:0.7k fork:0.3k 台湾大学李宏毅老师机器学习
-- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2021-02 star:8.6k fork:3.2k PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) pushed_at:2021-03 star:8.6k fork:3.2k PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) pushed_at:2021-02 star:0.9k fork:0.1k Fast, general, and tested differentiable structured prediction in PyTorch
 - [oldratlee/statistics-from-data-to-conclusion-4e](https://github.com/oldratlee/statistics-from-data-to-conclusion-4e) pushed_at:2019-11 star:0.0k fork:0.0k 《统计学：从数据到结论》第四版 吴喜之 的数据文件与代码 | The data and code files of book "statistics: from data to conclusion, 4th edition"
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) pushed_at:2021-03 star:12.6k fork:13.3k One has no future if one couldn't teach themself.
@@ -699,7 +699,7 @@
 
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) pushed_at:2021-03 star:5.5k fork:0.6k Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [alibaba/p3c](https://github.com/alibaba/p3c) pushed_at:2021-02 star:24.8k fork:6.6k Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) pushed_at:2021-02 star:31.2k fork:11.4k A shadowsocks client for Android
+- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) pushed_at:2021-03 star:31.2k fork:11.4k A shadowsocks client for Android
 
 ## Lua
 
@@ -709,7 +709,7 @@
 ## Makefile
 
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) pushed_at:2021-01 star:7.1k fork:0.5k Learn Haskell
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) pushed_at:2021-03 star:21.7k fork:2.3k Standard Go Project Layout
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) pushed_at:2021-03 star:21.8k fork:2.3k Standard Go Project Layout
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) pushed_at:2021-01 star:7.4k fork:2.3k Google 开源项目风格指南 (中文版)
 
 ## OCaml
@@ -732,12 +732,12 @@
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) pushed_at:2021-03 star:52.1k fork:16.2k 后端架构师技术图谱
 - [github/archive-program](https://github.com/github/archive-program) pushed_at:2021-03 star:2.6k fork:0.2k The GitHub Archive Program & Arctic Code Vault
 - [rollup/awesome](https://github.com/rollup/awesome) pushed_at:2021-03 star:1.4k fork:0.1k ⚡️ Delightful Rollup Plugins, Packages, and Resources
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) pushed_at:2021-03 star:154.8k fork:20.2k 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) pushed_at:2021-03 star:154.9k fork:20.2k 😎 Awesome lists about all kinds of interesting topics
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) pushed_at:2021-02 star:15.8k fork:1.8k :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) pushed_at:2021-02 star:0.7k fork:0.1k A curated list of awesome technologies related to Anime, Comic and Games
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) pushed_at:2021-03 star:7.2k fork:0.6k 🖥 📊 🕹 🛠 A curated list of command line apps
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) pushed_at:2021-03 star:7.4k fork:0.4k A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-02 star:2.5k fork:0.3k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-02 star:2.6k fork:0.3k A list of learning materials to understand databases internals
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) pushed_at:2021-03 star:7.0k fork:0.9k A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) pushed_at:2021-03 star:5.6k fork:0.3k A curated list of dotfiles resources.
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) pushed_at:2020-05 star:1.9k fork:0.5k A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
@@ -770,12 +770,12 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) pushed_at:2021-03 star:4.7k fork:0.2k A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) pushed_at:2021-01 star:2.3k fork:0.1k EditorConfig universal issue tracker and wiki
 - [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) pushed_at:2020-06 star:1.0k fork:0.2k 《Effective Go》中英双语版
-- [ruanyf/free-books](https://github.com/ruanyf/free-books) pushed_at:2020-10 star:11.2k fork:2.0k 互联网上的免费书籍
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) pushed_at:2021-03 star:179.3k fork:41.1k :books: Freely available programming books
+- [ruanyf/free-books](https://github.com/ruanyf/free-books) pushed_at:2020-10 star:11.3k fork:2.0k 互联网上的免费书籍
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) pushed_at:2021-03 star:179.4k fork:41.1k :books: Freely available programming books
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) pushed_at:2021-03 star:77.5k fork:22.9k :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) pushed_at:2021-02 star:10.0k fork:2.7k 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [FuchsiaOS/FuchsiaOS-docs-zh_CN](https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN) pushed_at:2020-08 star:0.7k fork:0.1k Fuchsia OS 简体中文文档
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) pushed_at:2021-03 star:85.7k fork:16.6k 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) pushed_at:2021-03 star:85.8k fork:16.6k 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
 - [leereilly/games](https://github.com/leereilly/games) pushed_at:2021-02 star:17.4k fork:2.3k :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [GB28181/GB-Docs](https://github.com/GB28181/GB-Docs) pushed_at:2020-06 star:0.0k fork:0.0k  GB->GB/T->GB/Z->GM/T->GA/T 中华人民共和国国家标准文档
 - [theburningmonk/getting-started-with-serverless-development-with-lambda-devopsdays-ams](https://github.com/theburningmonk/getting-started-with-serverless-development-with-lambda-devopsdays-ams) pushed_at:2019-06 star:0.0k fork:0.0k Workshop on how to get started with serverless development with AWS Lambda
@@ -788,7 +788,7 @@
 - [aceld/golang](https://github.com/aceld/golang) pushed_at:2021-02 star:0.3k fork:0.0k 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) pushed_at:2021-03 star:10.2k fork:1.2k Roadmap to becoming a Go developer in 2020
 - [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) pushed_at:2021-03 star:1.0k fork:0.1k Go语言爱好者周刊，每周日发布
-- [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) pushed_at:2021-02 star:2.1k fork:0.1k 我终于能用谷歌搜中文了……
+- [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) pushed_at:2021-03 star:2.1k fork:0.1k 我终于能用谷歌搜中文了……
 - [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) pushed_at:2020-07 star:3.3k fork:1.1k :us: Google 全球 IP 地址库
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) pushed_at:2021-02 star:2.2k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) pushed_at:2021-01 star:8.4k fork:0.8k 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
@@ -802,16 +802,16 @@
 - [Roam-Research/issues](https://github.com/Roam-Research/issues) pushed_at:2021-02 star:0.3k fork:0.0k Roam Research - A note-taking tool for networked thought.
 - [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) pushed_at:2021-03 star:0.5k fork:0.1k :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
 - [gocn/knowledge](https://github.com/gocn/knowledge) pushed_at:2021-03 star:2.3k fork:0.3k Go社区的知识图谱，Knowledge Graph
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2021-03 star:35.8k fork:4.4k The Kotlin Programming Language
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2021-03 star:35.9k fork:4.4k The Kotlin Programming Language
 - [panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action) pushed_at:2018-11 star:0.2k fork:0.1k 《kotlin实战》翻译
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) pushed_at:2021-02 star:37.5k fork:5.2k Learn regex the easy way
 - [yangwenmai/learning-growth](https://github.com/yangwenmai/learning-growth) pushed_at:2020-08 star:0.1k fork:0.0k 主要是我的一些阅读、学习、社交、研究、思考、放松娱乐记录整理。
 - [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) pushed_at:2021-02 star:0.2k fork:0.1k 
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) pushed_at:2021-03 star:6.2k fork:0.9k 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) pushed_at:2021-03 star:6.3k fork:0.9k 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) pushed_at:2020-10 star:4.0k fork:0.7k Linux 内核揭秘
 - [JerryYangSH/LockFreeProgrammingPractice](https://github.com/JerryYangSH/LockFreeProgrammingPractice) pushed_at:2017-06 star:0.0k fork:0.0k Lock free 论文集合，若干无锁数据结构实现的经典论文，500多页
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) pushed_at:2021-03 star:4.1k fork:2.7k Apache Lucene and Solr open-source search software
-- [dwelcaslu/machine-learning-books](https://github.com/dwelcaslu/machine-learning-books) pushed_at:2021-01 star:0.3k fork:0.1k 
+- [dwelcaslu/machine-learning-books](https://github.com/dwelcaslu/machine-learning-books) pushed_at:2021-01 star:0.4k fork:0.1k 
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) pushed_at:2019-03 star:16.9k fork:6.7k Gitbook
 - [taowen/modularization-examples](https://github.com/taowen/modularization-examples) pushed_at:2021-03 star:0.6k fork:0.0k 业务逻辑拆分模式
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) pushed_at:2020-10 star:5.9k fork:1.2k 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
@@ -863,7 +863,7 @@
 ## Perl
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) pushed_at:2021-03 star:11.2k fork:0.7k cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) pushed_at:2021-03 star:10.9k fork:1.3k Stack trace visualizer
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) pushed_at:2021-03 star:11.0k fork:1.3k Stack trace visualizer
 
 ## PowerShell
 
@@ -880,11 +880,11 @@
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) pushed_at:2021-03 star:1.1k fork:0.1k Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) pushed_at:2021-01 star:9.0k fork:0.7k Terminal session recorder 📹
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) pushed_at:2021-03 star:0.4k fork:0.1k 超赞列表合集
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) pushed_at:2021-03 star:94.9k fork:18.6k A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) pushed_at:2021-03 star:94.9k fork:18.5k A curated list of awesome Python frameworks, libraries, software and resources
 - [beancount/beancount](https://github.com/beancount/beancount) pushed_at:2021-03 star:0.7k fork:0.1k Beancount: Double-Entry Accounting from Text Files.
 - [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) pushed_at:2017-11 star:3.3k fork:2.4k 爆破字典
 - [fkubota/Carrier-Owl](https://github.com/fkubota/Carrier-Owl) pushed_at:2021-02 star:0.2k fork:0.1k arxiv--> DeepL --> Slack
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) pushed_at:2021-03 star:23.7k fork:1.2k the only cheat sheet you need
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) pushed_at:2021-03 star:23.8k fork:1.2k the only cheat sheet you need
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) pushed_at:2021-03 star:8.5k fork:2.0k 100+ Chinese Word Vectors 上百种预训练中文词向量 
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) pushed_at:2021-01 star:2.5k fork:0.2k Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [DSXiangLi/CTR](https://github.com/DSXiangLi/CTR) pushed_at:2021-01 star:0.2k fork:0.0k CTR模型代码和学习笔记总结
@@ -902,7 +902,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-01 star:14.3k fork:3.6k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [hypothesis/h](https://github.com/hypothesis/h) pushed_at:2021-03 star:2.1k fork:0.4k Annotate with anyone, anywhere.
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) pushed_at:2021-03 star:22.3k fork:6.0k 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) pushed_at:2021-03 star:38.3k fork:5.7k :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) pushed_at:2021-03 star:38.4k fork:5.7k :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) pushed_at:2021-01 star:0.6k fork:0.1k HelloGitHub.com 网站源码
 - [httpie/httpie](https://github.com/httpie/httpie) pushed_at:2021-02 star:50.1k fork:3.3k As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [reorx/httpstat](https://github.com/reorx/httpstat) pushed_at:2020-12 star:4.7k fork:0.3k curl statistics made simple
@@ -926,7 +926,7 @@
 - [mbinary/netease-music-cracker](https://github.com/mbinary/netease-music-cracker) pushed_at:2020-06 star:0.4k fork:0.1k :musical_note: 将可下载的网易云音乐的缓存文件转换为 MP3 文件
 - [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) pushed_at:2021-02 star:0.1k fork:0.1k Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) pushed_at:2021-03 star:11.3k fork:2.2k Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-03 star:4.5k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-03 star:4.6k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) pushed_at:2020-12 star:3.2k fork:0.3k An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) pushed_at:2021-03 star:4.2k fork:0.3k Python version of the Playwright testing and automation library.
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) pushed_at:2021-03 star:2.0k fork:0.5k pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.
@@ -948,7 +948,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) pushed_at:2021-03 star:0.9k fork:0.1k AI-powered search engine
 - [attardi/wikiextractor](https://github.com/attardi/wikiextractor) pushed_at:2021-01 star:2.6k fork:0.8k A tool for extracting plain text from Wikipedia dumps
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) pushed_at:2020-12 star:11.4k fork:2.0k wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [soimort/you-get](https://github.com/soimort/you-get) pushed_at:2021-03 star:39.4k fork:8.1k :arrow_double_down: Dumb downloader that scrapes the web
+- [soimort/you-get](https://github.com/soimort/you-get) pushed_at:2021-03 star:39.5k fork:8.1k :arrow_double_down: Dumb downloader that scrapes the web
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) pushed_at:2021-03 star:3.8k fork:0.6k 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [5A59/Zvm](https://github.com/5A59/Zvm) pushed_at:2019-09 star:0.4k fork:0.0k A lightweight jvm written by python
 
@@ -978,9 +978,9 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) pushed_at:2021-03 star:19.1k fork:1.3k A curated list of Rust code and resources.
 - [sharkdp/bat](https://github.com/sharkdp/bat) pushed_at:2021-03 star:25.7k fork:0.7k A cat(1) clone with wings.
 - [rust-lang/book](https://github.com/rust-lang/book) pushed_at:2021-03 star:6.7k fork:1.8k The Rust Programming Language
-- [Canop/broot](https://github.com/Canop/broot) pushed_at:2021-03 star:5.0k fork:0.1k A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) pushed_at:2021-03 star:5.1k fork:0.1k A new way to see and navigate directory trees : https://dystroy.org/broot
 - [inherd/coco](https://github.com/inherd/coco) pushed_at:2021-03 star:0.2k fork:0.0k An effective DevOps analysis and auto-suggest tool。Coco 是一个研发效能分析工具，如团队发展现状（根据架构复杂度及行数变更）、团队演进、历史分析等。生成可视化报告及对应的改进建议。 
-- [denoland/deno](https://github.com/denoland/deno) pushed_at:2021-03 star:73.3k fork:3.8k A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) pushed_at:2021-03 star:73.4k fork:3.8k A secure JavaScript and TypeScript runtime
 - [diem/diem](https://github.com/diem/diem) pushed_at:2021-03 star:15.7k fork:2.4k Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [softprops/envy](https://github.com/softprops/envy) pushed_at:2021-01 star:0.5k fork:0.0k deserialize env vars into typesafe structs with rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) pushed_at:2021-03 star:16.7k fork:0.4k A simple, fast and user-friendly alternative to 'find'
@@ -1003,7 +1003,7 @@
 - [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) pushed_at:2021-03 star:0.2k fork:0.1k rust wrapper for rocksdb
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) pushed_at:2021-03 star:15.1k fork:2.0k :crab: Small exercises to get you used to reading and writing Rust code!
 - [ctz/rustls](https://github.com/ctz/rustls) pushed_at:2021-03 star:2.4k fork:0.2k A modern TLS library in Rust
-- [starship/starship](https://github.com/starship/starship) pushed_at:2021-03 star:15.3k fork:0.6k ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [starship/starship](https://github.com/starship/starship) pushed_at:2021-03 star:15.4k fork:0.6k ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-02 star:5.9k fork:0.8k open source training courses about distributed database and distributed systemes
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) pushed_at:2020-12 star:0.9k fork:0.1k 《Rust编程之道》随书源码
 - [google/tarpc](https://github.com/google/tarpc) pushed_at:2021-03 star:1.7k fork:0.1k An RPC framework for Rust with a focus on ease of use.
@@ -1037,7 +1037,7 @@
 - [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) pushed_at:2021-02 star:2.7k fork:0.7k Bash 教程
 - [pingcap/blog-cn](https://github.com/pingcap/blog-cn) pushed_at:2021-03 star:0.1k fork:0.1k 
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-03 star:1.5k fork:0.9k TiDB/TiKV/PD documentation in Chinese.
-- [dokku/dokku](https://github.com/dokku/dokku) pushed_at:2021-03 star:20.9k fork:1.6k A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dokku/dokku](https://github.com/dokku/dokku) pushed_at:2021-03 star:21.0k fork:1.6k A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [aziz/dotfiles](https://github.com/aziz/dotfiles) pushed_at:2021-02 star:0.1k fork:0.0k My Unix environment
 - [studygolang/GCTT](https://github.com/studygolang/GCTT) pushed_at:2021-03 star:1.2k fork:0.4k GCTT Go中文网翻译组。
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) pushed_at:2021-02 star:4.3k fork:0.2k ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -1092,7 +1092,7 @@
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) pushed_at:2021-03 star:1.9k fork:0.1k A library to display an interactive editor for any graph-like data.
 - [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr) pushed_at:2021-02 star:1.6k fork:0.2k 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
 - [elsaland/elsa](https://github.com/elsaland/elsa) pushed_at:2021-03 star:2.2k fork:0.0k ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) pushed_at:2021-03 star:18.3k fork:1.2k Virtual whiteboard for sketching hand-drawn like diagrams
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) pushed_at:2021-03 star:18.4k fork:1.2k Virtual whiteboard for sketching hand-drawn like diagrams
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) pushed_at:2021-03 star:12.9k fork:1.6k Browser fingerprinting library with the highest accuracy and stability.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) pushed_at:2021-03 star:1.2k fork:0.1k 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) pushed_at:2021-01 star:0.3k fork:0.0k :octocat: GitHub Action for GoReleaser
@@ -1103,7 +1103,7 @@
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) pushed_at:2021-03 star:3.8k fork:0.5k Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [cuixiaorui/refactoring-to-patterns](https://github.com/cuixiaorui/refactoring-to-patterns) pushed_at:2020-07 star:0.0k fork:0.0k 重构与模式
 - [actions/setup-go](https://github.com/actions/setup-go) pushed_at:2021-01 star:0.4k fork:0.1k Set up your GitHub Actions workflow with a specific version of Go
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) pushed_at:2021-03 star:12.3k fork:0.8k Make images smaller using best-in-class codecs, right in the browser.
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) pushed_at:2021-03 star:12.4k fork:0.8k Make images smaller using best-in-class codecs, right in the browser.
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) pushed_at:2021-03 star:1.7k fork:0.1k A Magical Web Recorder & Player 🖥 (WIP) 
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource) pushed_at:2021-03 star:0.0k fork:0.0k Source code to build vczh-libraries.github.io
 
