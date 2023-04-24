@@ -1,7 +1,7 @@
 name: update my-awesome
 on:
   schedule:
-  - cron: 30 2 */3 * *
+  - cron: 30 2 * * 5
 jobs:
   my-awesome:
     name: update my-awesome
